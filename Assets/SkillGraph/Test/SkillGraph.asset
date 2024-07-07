@@ -1,0 +1,239 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 627d63eb90404108aa13314586af05f6, type: 3}
+  m_Name: SkillGraph
+  m_EditorClassIdentifier: 
+  serializedNodes: []
+  nodes:
+  - rid: 2867586960737436002
+  - rid: 2867586960737436003
+  - rid: 2867586960737436006
+  - rid: 2867586965168717885
+  - rid: 2867586965168717886
+  - rid: 2867586965168717921
+  - rid: 2867586965168717922
+  - rid: 2867586965168718174
+  - rid: 2867586965168718175
+  edges:
+  - GUID: 6eade89d-14c4-4dbd-9c73-e9699743e90b
+    owner: {fileID: 11400000}
+    inputNodeGUID: 138d8b6d-264c-4d7c-aa5d-2835f1a69321
+    outputNodeGUID: 17c75eb5-e99b-459a-99cc-085133cd949f
+    inputFieldName: executed
+    outputFieldName: output
+    inputPortIdentifier: 
+    outputPortIdentifier: 
+  - GUID: c00dcd58-abc3-456e-a4cb-66f27032afff
+    owner: {fileID: 11400000}
+    inputNodeGUID: 991cb16f-1fed-489d-ad9f-a394dd68ab49
+    outputNodeGUID: 138d8b6d-264c-4d7c-aa5d-2835f1a69321
+    inputFieldName: executed
+    outputFieldName: executes
+    inputPortIdentifier: 
+    outputPortIdentifier: 
+  - GUID: e334c4c7-52c8-4dc5-a198-b440ae059ac9
+    owner: {fileID: 11400000}
+    inputNodeGUID: fdf495c8-e041-4da9-b996-ebf8e806fbdf
+    outputNodeGUID: 991cb16f-1fed-489d-ad9f-a394dd68ab49
+    inputFieldName: executed
+    outputFieldName: executes
+    inputPortIdentifier: 
+    outputPortIdentifier: 
+  - GUID: e76163a5-ad66-44d0-a354-61b75a7c09ba
+    owner: {fileID: 11400000}
+    inputNodeGUID: 8a6dee46-d187-43cb-8094-0b65fd7004a9
+    outputNodeGUID: 17c75eb5-e99b-459a-99cc-085133cd949f
+    inputFieldName: executed
+    outputFieldName: output
+    inputPortIdentifier: 
+    outputPortIdentifier: 
+  - GUID: 1be23c34-ce84-4a53-8154-a8e535317d2d
+    owner: {fileID: 11400000}
+    inputNodeGUID: d868dd7b-6f4d-489b-9e8f-c193933dd9af
+    outputNodeGUID: 17c75eb5-e99b-459a-99cc-085133cd949f
+    inputFieldName: executed
+    outputFieldName: output
+    inputPortIdentifier: 
+    outputPortIdentifier: 
+  - GUID: 18ec413b-283a-4026-9e7a-e2a287cc3510
+    owner: {fileID: 11400000}
+    inputNodeGUID: bbf9e476-3763-48fa-908f-d426d5118d15
+    outputNodeGUID: 8a6dee46-d187-43cb-8094-0b65fd7004a9
+    inputFieldName: executed
+    outputFieldName: executes
+    inputPortIdentifier: 
+    outputPortIdentifier: 
+  - GUID: 2877bb6f-d8f3-4a5c-87ba-274986e7a796
+    owner: {fileID: 11400000}
+    inputNodeGUID: bf6c2032-73f3-45f2-9eea-8ce838801cbb
+    outputNodeGUID: 17c75eb5-e99b-459a-99cc-085133cd949f
+    inputFieldName: executed
+    outputFieldName: output
+    inputPortIdentifier: 
+    outputPortIdentifier: 
+  - GUID: 58313d4f-cf39-471a-a3b9-3473103d6137
+    owner: {fileID: 11400000}
+    inputNodeGUID: e615fe9e-5f66-432b-bb9d-a60e8dfad5de
+    outputNodeGUID: 17c75eb5-e99b-459a-99cc-085133cd949f
+    inputFieldName: executed
+    outputFieldName: output
+    inputPortIdentifier: 
+    outputPortIdentifier: 
+  groups: []
+  stackNodes: []
+  pinnedElements: []
+  exposedParameters: []
+  serializedParameterList: []
+  stickyNotes: []
+  nodeInspectorReference: {fileID: 0}
+  position: {x: 188, y: -61, z: 0}
+  scale: {x: 0.57175326, y: 0.57175326, z: 1}
+  references:
+    version: 2
+    RefIds:
+    - rid: 2867586960737436002
+      type: {class: SkillStartNode, ns: SkillGraph, asm: Assembly-CSharp}
+      data:
+        nodeCustomName: 
+        GUID: 17c75eb5-e99b-459a-99cc-085133cd949f
+        computeOrder: 0
+        position:
+          serializedVersion: 2
+          x: 180.00002
+          y: 300
+          width: 90
+          height: 75
+        expanded: 0
+        debug: 0
+        nodeLock: 0
+    - rid: 2867586960737436003
+      type: {class: SkillPassNode, ns: SkillGraph, asm: Assembly-CSharp}
+      data:
+        nodeCustomName: 
+        GUID: 138d8b6d-264c-4d7c-aa5d-2835f1a69321
+        computeOrder: 1
+        position:
+          serializedVersion: 2
+          x: 439.48236
+          y: 300
+          width: 170
+          height: 75
+        expanded: 0
+        debug: 0
+        nodeLock: 0
+    - rid: 2867586960737436006
+      type: {class: SkillPassNode, ns: SkillGraph, asm: Assembly-CSharp}
+      data:
+        nodeCustomName: 
+        GUID: 991cb16f-1fed-489d-ad9f-a394dd68ab49
+        computeOrder: 2
+        position:
+          serializedVersion: 2
+          x: 632.6026
+          y: 300
+          width: 170
+          height: 75
+        expanded: 0
+        debug: 0
+        nodeLock: 0
+    - rid: 2867586965168717885
+      type: {class: SkillPassNode, ns: SkillGraph, asm: Assembly-CSharp}
+      data:
+        nodeCustomName: 
+        GUID: fdf495c8-e041-4da9-b996-ebf8e806fbdf
+        computeOrder: 3
+        position:
+          serializedVersion: 2
+          x: 835.4798
+          y: 297
+          width: 170
+          height: 75
+        expanded: 0
+        debug: 0
+        nodeLock: 0
+    - rid: 2867586965168717886
+      type: {class: SkillPassNode, ns: SkillGraph, asm: Assembly-CSharp}
+      data:
+        nodeCustomName: 
+        GUID: 8a6dee46-d187-43cb-8094-0b65fd7004a9
+        computeOrder: 4
+        position:
+          serializedVersion: 2
+          x: 419.95166
+          y: 493.3582
+          width: 170
+          height: 75
+        expanded: 0
+        debug: 0
+        nodeLock: 0
+    - rid: 2867586965168717921
+      type: {class: SkillMiddleNode, ns: SkillGraph, asm: Assembly-CSharp}
+      data:
+        nodeCustomName: 
+        GUID: bbf9e476-3763-48fa-908f-d426d5118d15
+        computeOrder: 5
+        position:
+          serializedVersion: 2
+          x: 652.9882
+          y: 493
+          width: 170
+          height: 94
+        expanded: 0
+        debug: 0
+        nodeLock: 0
+        num: 0
+    - rid: 2867586965168717922
+      type: {class: SkillMiddleNode, ns: SkillGraph, asm: Assembly-CSharp}
+      data:
+        nodeCustomName: 
+        GUID: d868dd7b-6f4d-489b-9e8f-c193933dd9af
+        computeOrder: 6
+        position:
+          serializedVersion: 2
+          x: 423.00003
+          y: 729.95654
+          width: 153
+          height: 94
+        expanded: 0
+        debug: 0
+        nodeLock: 0
+        num: 0
+    - rid: 2867586965168718174
+      type: {class: SkillPassNode, ns: SkillGraph, asm: Assembly-CSharp}
+      data:
+        nodeCustomName: 
+        GUID: bf6c2032-73f3-45f2-9eea-8ce838801cbb
+        computeOrder: 7
+        position:
+          serializedVersion: 2
+          x: 423.00003
+          y: 610.73914
+          width: 102
+          height: 75
+        expanded: 0
+        debug: 0
+        nodeLock: 0
+    - rid: 2867586965168718175
+      type: {class: SkillPassNode, ns: SkillGraph, asm: Assembly-CSharp}
+      data:
+        nodeCustomName: 
+        GUID: e615fe9e-5f66-432b-bb9d-a60e8dfad5de
+        computeOrder: 8
+        position:
+          serializedVersion: 2
+          x: 420.00003
+          y: 398.96475
+          width: 170
+          height: 75
+        expanded: 0
+        debug: 0
+        nodeLock: 0

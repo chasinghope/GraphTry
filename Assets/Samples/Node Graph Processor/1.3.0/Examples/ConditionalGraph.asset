@@ -1,0 +1,218 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31390c44c9f3a3d40b424bf6821999a2, type: 3}
+  m_Name: ConditionalGraph
+  m_EditorClassIdentifier: 
+  serializedNodes: []
+  nodes:
+  - rid: 2867586941766861267
+  - rid: 2867586941766861280
+  - rid: 2867586941766861281
+  - rid: 2867586941766861282
+  - rid: 2867586941766861286
+  - rid: 2867586941766861288
+  - rid: 2867586941766861289
+  edges:
+  - GUID: 45f4f738-4334-4379-bca8-bfff23a90b12
+    owner: {fileID: 11400000}
+    inputNodeGUID: 02938362-e7d5-4446-b4ce-e740710062d3
+    outputNodeGUID: d5ca5207-95e0-48d1-a3a8-a3a01ede32ff
+    inputFieldName: executed
+    outputFieldName: loopBody
+    inputPortIdentifier: 
+    outputPortIdentifier: 
+  - GUID: 91163516-0f7c-4ac3-bf73-4b3affe902dc
+    owner: {fileID: 11400000}
+    inputNodeGUID: 02938362-e7d5-4446-b4ce-e740710062d3
+    outputNodeGUID: d5ca5207-95e0-48d1-a3a8-a3a01ede32ff
+    inputFieldName: obj
+    outputFieldName: index
+    inputPortIdentifier: 
+    outputPortIdentifier: 
+  - GUID: 551f4048-86f7-4bd8-8497-6895e1bc0b3c
+    owner: {fileID: 11400000}
+    inputNodeGUID: ab35bbd6-77b3-4047-89c3-65e89faebd54
+    outputNodeGUID: d5ca5207-95e0-48d1-a3a8-a3a01ede32ff
+    inputFieldName: executed
+    outputFieldName: loopCompleted
+    inputPortIdentifier: 
+    outputPortIdentifier: 
+  - GUID: 2920d9b2-c919-49a6-bf89-31a741542df4
+    owner: {fileID: 11400000}
+    inputNodeGUID: ab35bbd6-77b3-4047-89c3-65e89faebd54
+    outputNodeGUID: 60483d14-2e65-48f0-8c6a-828ed62a7401
+    inputFieldName: obj
+    outputFieldName: output
+    inputPortIdentifier: 
+    outputPortIdentifier: 
+  - GUID: 145e6c9a-2050-4ea4-9874-2d8db96b1dcd
+    owner: {fileID: 11400000}
+    inputNodeGUID: 0b887ee0-c1bb-4ebd-9d59-dfad6ca5d169
+    outputNodeGUID: 4d4e7649-dade-42d7-b08d-6ef2bb438f38
+    inputFieldName: executed
+    outputFieldName: executes
+    inputPortIdentifier: 
+    outputPortIdentifier: 
+  groups: []
+  stackNodes: []
+  pinnedElements:
+  - position:
+      serializedVersion: 2
+      x: 0
+      y: 29
+      width: 150
+      height: 200
+    opened: 1
+    editorType:
+      serializedType: GraphProcessor.ExposedParameterView, com.alelievr.NodeGraphProcessor,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - position:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 150
+      height: 200
+    opened: 1
+    editorType:
+      serializedType: GraphProcessor.ExposedParameterView, com.alelievr.NodeGraphProcessor.Editor,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  - position:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 150
+      height: 200
+    opened: 1
+    editorType:
+      serializedType: ConditionalProcessorView, Assembly-CSharp-Editor, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+  exposedParameters: []
+  serializedParameterList: []
+  stickyNotes: []
+  nodeInspectorReference: {fileID: 0}
+  position: {x: -72, y: 296, z: 0}
+  scale: {x: 1, y: 1, z: 1}
+  references:
+    version: 2
+    RefIds:
+    - rid: 2867586941766861267
+      type: {class: ForLoopNode, ns: , asm: Assembly-CSharp}
+      data:
+        nodeCustomName: 
+        GUID: d5ca5207-95e0-48d1-a3a8-a3a01ede32ff
+        computeOrder: 0
+        position:
+          serializedVersion: 2
+          x: 1715.5387
+          y: 2.2438545
+          width: 215
+          height: 138.00002
+        expanded: 0
+        debug: 0
+        nodeLock: 0
+        start: 0
+        end: 10
+        index: 9
+    - rid: 2867586941766861280
+      type: {class: ConditionalPrintNode, ns: , asm: Assembly-CSharp}
+      data:
+        nodeCustomName: 
+        GUID: 02938362-e7d5-4446-b4ce-e740710062d3
+        computeOrder: 1
+        position:
+          serializedVersion: 2
+          x: 2257.9753
+          y: 10.215508
+          width: 176
+          height: 114
+        expanded: 0
+        debug: 0
+        nodeLock: 0
+    - rid: 2867586941766861281
+      type: {class: ConditionalPrintNode, ns: , asm: Assembly-CSharp}
+      data:
+        nodeCustomName: 
+        GUID: ab35bbd6-77b3-4047-89c3-65e89faebd54
+        computeOrder: 3
+        position:
+          serializedVersion: 2
+          x: 2205.1501
+          y: 187.30003
+          width: 168
+          height: 115.00001
+        expanded: 0
+        debug: 0
+        nodeLock: 0
+    - rid: 2867586941766861282
+      type: {class: StringNode, ns: , asm: Assembly-CSharp}
+      data:
+        nodeCustomName: 
+        GUID: 60483d14-2e65-48f0-8c6a-828ed62a7401
+        computeOrder: 2
+        position:
+          serializedVersion: 2
+          x: 1774.745
+          y: 340.43436
+          width: 214
+          height: 179
+        expanded: 0
+        debug: 0
+        nodeLock: 0
+        output: 
+    - rid: 2867586941766861286
+      type: {class: OutputNode, ns: , asm: Assembly-CSharp}
+      data:
+        nodeCustomName: 
+        GUID: 67bd4629-d907-47dc-aac8-450a39dcf41f
+        computeOrder: 4
+        position:
+          serializedVersion: 2
+          x: 1422
+          y: 340
+          width: 112
+          height: 75
+        expanded: 0
+        debug: 0
+        nodeLock: 0
+        input: 0
+    - rid: 2867586941766861288
+      type: {class: OutputNode, ns: , asm: Assembly-CSharp}
+      data:
+        nodeCustomName: 
+        GUID: 54bb510c-8bff-4e2f-96b6-251997c2c475
+        computeOrder: 5
+        position:
+          serializedVersion: 2
+          x: 1422
+          y: 254
+          width: 112
+          height: 75
+        expanded: 0
+        debug: 0
+        nodeLock: 0
+        input: 0
+    - rid: 2867586941766861289
+      type: {class: OutputNode, ns: , asm: Assembly-CSharp}
+      data:
+        nodeCustomName: 
+        GUID: 9daeb88f-62a0-4e9f-bc11-3c11ff63d2ae
+        computeOrder: 6
+        position:
+          serializedVersion: 2
+          x: 1340
+          y: 517
+          width: 112
+          height: 75
+        expanded: 0
+        debug: 0
+        nodeLock: 0
+        input: 0
