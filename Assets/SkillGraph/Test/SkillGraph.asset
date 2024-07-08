@@ -88,6 +88,14 @@ MonoBehaviour:
     outputFieldName: output
     inputPortIdentifier: 
     outputPortIdentifier: 
+  - GUID: ebe901bc-ec08-4ed5-a3dc-d544529eb1c7
+    owner: {fileID: 11400000}
+    inputNodeGUID: bbf9e476-3763-48fa-908f-d426d5118d15
+    outputNodeGUID: d868dd7b-6f4d-489b-9e8f-c193933dd9af
+    inputFieldName: executed
+    outputFieldName: executes
+    inputPortIdentifier: 
+    outputPortIdentifier: 
   groups: []
   stackNodes: []
   pinnedElements: []
@@ -95,8 +103,8 @@ MonoBehaviour:
   serializedParameterList: []
   stickyNotes: []
   nodeInspectorReference: {fileID: 0}
-  position: {x: 188, y: -61, z: 0}
-  scale: {x: 0.57175326, y: 0.57175326, z: 1}
+  position: {x: -37, y: -260, z: 0}
+  scale: {x: 1, y: 1, z: 1}
   references:
     version: 2
     RefIds:
@@ -180,7 +188,7 @@ MonoBehaviour:
       data:
         nodeCustomName: 
         GUID: bbf9e476-3763-48fa-908f-d426d5118d15
-        computeOrder: 5
+        computeOrder: 6
         position:
           serializedVersion: 2
           x: 652.9882
@@ -196,7 +204,7 @@ MonoBehaviour:
       data:
         nodeCustomName: 
         GUID: d868dd7b-6f4d-489b-9e8f-c193933dd9af
-        computeOrder: 6
+        computeOrder: 5
         position:
           serializedVersion: 2
           x: 423.00003
