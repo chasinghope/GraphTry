@@ -30,8 +30,6 @@ MonoBehaviour:
   - rid: 13
   - rid: 14
   - rid: 15
-  - rid: 2867586965168718003
-  - rid: 2867586965168718004
   edges:
   - GUID: 81ad2a95-ee5f-4b8d-9d14-73caf3602feb
     owner: {fileID: 11400000}
@@ -121,14 +119,6 @@ MonoBehaviour:
     outputFieldName: output
     inputPortIdentifier: 
     outputPortIdentifier: output
-  - GUID: 1497f94b-ddc8-429b-83af-1c6bbb1c2162
-    owner: {fileID: 11400000}
-    inputNodeGUID: 34304755-58b0-4d96-97bb-1f739000d2ae
-    outputNodeGUID: 026cdacc-5f9c-4d04-8260-4dce3b329dd6
-    inputFieldName: executed
-    outputFieldName: true
-    inputPortIdentifier: 
-    outputPortIdentifier: 
   groups: []
   stackNodes: []
   pinnedElements:
@@ -166,8 +156,8 @@ MonoBehaviour:
       serializedVersion: 2
       x: 27
       y: 40
-      width: 310
-      height: 499
+      width: 441
+      height: 566
     opened: 1
     editorType:
       serializedType: GraphProcessor.ExposedParameterView, com.alelievr.NodeGraphProcessor.Editor,
@@ -240,8 +230,8 @@ MonoBehaviour:
       rid: 27
   stickyNotes: []
   nodeInspectorReference: {fileID: 0}
-  position: {x: -18, y: -61, z: 0}
-  scale: {x: 0.7561437, y: 0.7561437, z: 1}
+  position: {x: 385, y: -277, z: 0}
+  scale: {x: 1.3225, y: 1.3225, z: 1}
   references:
     version: 2
     RefIds:
@@ -294,7 +284,7 @@ MonoBehaviour:
         expanded: 0
         debug: 0
         nodeLock: 0
-        output: 2342
+        output: 534
     - rid: 3
       type: {class: ParameterNode, ns: GraphProcessor, asm: com.alelievr.NodeGraphProcessor.Runtime}
       data:
@@ -320,14 +310,14 @@ MonoBehaviour:
         computeOrder: 2
         position:
           serializedVersion: 2
-          x: 98.00002
-          y: 173.00002
-          width: 102
-          height: 99
+          x: 103.315704
+          y: 173.14555
+          width: 105.00001
+          height: 101
         expanded: 0
         debug: 0
         nodeLock: 0
-        output: 42
+        output: 0
         input: 42
     - rid: 5
       type: {class: IfNode, ns: , asm: Assembly-CSharp}
@@ -351,13 +341,13 @@ MonoBehaviour:
       data:
         nodeCustomName: 
         GUID: 34304755-58b0-4d96-97bb-1f739000d2ae
-        computeOrder: 7
+        computeOrder: 6
         position:
           serializedVersion: 2
-          x: 1308.8003
-          y: 269.65002
-          width: 152
-          height: 127
+          x: 1134.0503
+          y: 280.00006
+          width: 233.00003
+          height: 120.000015
         expanded: 0
         debug: 1
         nodeLock: 0
@@ -368,7 +358,7 @@ MonoBehaviour:
       data:
         nodeCustomName: 
         GUID: 5ab40949-8b34-4211-95c9-fc2e5ffaf9fc
-        computeOrder: 10
+        computeOrder: 9
         position:
           serializedVersion: 2
           x: 342
@@ -384,7 +374,7 @@ MonoBehaviour:
       data:
         nodeCustomName: 
         GUID: 1eeb47f3-0542-4e6d-a0f1-682bc2e461e4
-        computeOrder: 8
+        computeOrder: 7
         position:
           serializedVersion: 2
           x: 190
@@ -401,7 +391,7 @@ MonoBehaviour:
       data:
         nodeCustomName: 
         GUID: 2ccb7d58-8484-467c-807d-7aa278ae82c2
-        computeOrder: 9
+        computeOrder: 8
         position:
           serializedVersion: 2
           x: 190
@@ -418,7 +408,7 @@ MonoBehaviour:
       data:
         nodeCustomName: 
         GUID: 026cdacc-5f9c-4d04-8260-4dce3b329dd6
-        computeOrder: 6
+        computeOrder: 10
         position:
           serializedVersion: 2
           x: 1135.9502
@@ -525,7 +515,7 @@ MonoBehaviour:
         input: 1
         settings:
           rid: 28
-        val: 1150
+        val: 0.54
     - rid: 17
       type: {class: FloatParameter, ns: GraphProcessor, asm: com.alelievr.NodeGraphProcessor.Runtime}
       data:
@@ -539,7 +529,7 @@ MonoBehaviour:
         input: 1
         settings:
           rid: 29
-        val: 2342
+        val: 2.46
     - rid: 18
       type: {class: GameObjectParameter, ns: GraphProcessor, asm: com.alelievr.NodeGraphProcessor.Runtime}
       data:
@@ -553,7 +543,7 @@ MonoBehaviour:
         input: 1
         settings:
           rid: 30
-        val: {fileID: 0}
+        val: {fileID: 1636575971871760, guid: f78111bdbdeaf6644806fc49fcaf1d30, type: 3}
     - rid: 19
       type: {class: GameObjectParameter, ns: GraphProcessor, asm: com.alelievr.NodeGraphProcessor.Runtime}
       data:
@@ -712,37 +702,3 @@ MonoBehaviour:
         mode: 0
         min: 0
         max: 10
-    - rid: 2867586965168718003
-      type: {class: ParameterNode, ns: GraphProcessor, asm: com.alelievr.NodeGraphProcessor.Runtime}
-      data:
-        nodeCustomName: 
-        GUID: 44953ce1-8092-459c-a6a3-f3c6f17611e5
-        computeOrder: 16
-        position:
-          serializedVersion: 2
-          x: 8.050009
-          y: 111.55
-          width: 100
-          height: 100
-        expanded: 0
-        debug: 0
-        nodeLock: 0
-        parameterGUID: ae7b8636-b4ca-4259-afac-f09ff0dc0ad4
-        accessor: 0
-    - rid: 2867586965168718004
-      type: {class: ParameterNode, ns: GraphProcessor, asm: com.alelievr.NodeGraphProcessor.Runtime}
-      data:
-        nodeCustomName: 
-        GUID: 70cadfd7-a41c-44c3-a8ba-dfa627a83cfa
-        computeOrder: 17
-        position:
-          serializedVersion: 2
-          x: 1.871376
-          y: 17.657837
-          width: 103
-          height: 37
-        expanded: 0
-        debug: 0
-        nodeLock: 0
-        parameterGUID: 7c1eb1da-8c21-48f6-a6da-a925f68ea8c1
-        accessor: 0

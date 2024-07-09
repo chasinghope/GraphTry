@@ -23,6 +23,7 @@ MonoBehaviour:
   - rid: 2867586965168717922
   - rid: 2867586965168718174
   - rid: 2867586965168718175
+  - rid: 5051350137418547200
   edges:
   - GUID: 6eade89d-14c4-4dbd-9c73-e9699743e90b
     owner: {fileID: 11400000}
@@ -48,14 +49,6 @@ MonoBehaviour:
     outputFieldName: executes
     inputPortIdentifier: 
     outputPortIdentifier: 
-  - GUID: e76163a5-ad66-44d0-a354-61b75a7c09ba
-    owner: {fileID: 11400000}
-    inputNodeGUID: 8a6dee46-d187-43cb-8094-0b65fd7004a9
-    outputNodeGUID: 17c75eb5-e99b-459a-99cc-085133cd949f
-    inputFieldName: executed
-    outputFieldName: output
-    inputPortIdentifier: 
-    outputPortIdentifier: 
   - GUID: 1be23c34-ce84-4a53-8154-a8e535317d2d
     owner: {fileID: 11400000}
     inputNodeGUID: d868dd7b-6f4d-489b-9e8f-c193933dd9af
@@ -72,25 +65,9 @@ MonoBehaviour:
     outputFieldName: executes
     inputPortIdentifier: 
     outputPortIdentifier: 
-  - GUID: 2877bb6f-d8f3-4a5c-87ba-274986e7a796
+  - GUID: b80a35f2-9d98-4b5d-99a4-cb8d7f449846
     owner: {fileID: 11400000}
-    inputNodeGUID: bf6c2032-73f3-45f2-9eea-8ce838801cbb
-    outputNodeGUID: 17c75eb5-e99b-459a-99cc-085133cd949f
-    inputFieldName: executed
-    outputFieldName: output
-    inputPortIdentifier: 
-    outputPortIdentifier: 
-  - GUID: 58313d4f-cf39-471a-a3b9-3473103d6137
-    owner: {fileID: 11400000}
-    inputNodeGUID: e615fe9e-5f66-432b-bb9d-a60e8dfad5de
-    outputNodeGUID: 17c75eb5-e99b-459a-99cc-085133cd949f
-    inputFieldName: executed
-    outputFieldName: output
-    inputPortIdentifier: 
-    outputPortIdentifier: 
-  - GUID: ebe901bc-ec08-4ed5-a3dc-d544529eb1c7
-    owner: {fileID: 11400000}
-    inputNodeGUID: bbf9e476-3763-48fa-908f-d426d5118d15
+    inputNodeGUID: 8d20b2a9-32d2-4d69-a94c-2414fde36078
     outputNodeGUID: d868dd7b-6f4d-489b-9e8f-c193933dd9af
     inputFieldName: executed
     outputFieldName: executes
@@ -103,7 +80,7 @@ MonoBehaviour:
   serializedParameterList: []
   stickyNotes: []
   nodeInspectorReference: {fileID: 0}
-  position: {x: -37, y: -260, z: 0}
+  position: {x: 61, y: -234, z: 0}
   scale: {x: 1, y: 1, z: 1}
   references:
     version: 2
@@ -188,12 +165,12 @@ MonoBehaviour:
       data:
         nodeCustomName: 
         GUID: bbf9e476-3763-48fa-908f-d426d5118d15
-        computeOrder: 6
+        computeOrder: 5
         position:
           serializedVersion: 2
-          x: 652.9882
-          y: 493
-          width: 170
+          x: 722
+          y: 636
+          width: 151
           height: 94
         expanded: 0
         debug: 0
@@ -204,7 +181,7 @@ MonoBehaviour:
       data:
         nodeCustomName: 
         GUID: d868dd7b-6f4d-489b-9e8f-c193933dd9af
-        computeOrder: 5
+        computeOrder: 6
         position:
           serializedVersion: 2
           x: 423.00003
@@ -245,3 +222,22 @@ MonoBehaviour:
         expanded: 0
         debug: 0
         nodeLock: 0
+    - rid: 5051350137418547200
+      type: {class: SkillBuffNode, ns: SkillGraph, asm: Assembly-CSharp}
+      data:
+        nodeCustomName: 
+        GUID: 8d20b2a9-32d2-4d69-a94c-2414fde36078
+        computeOrder: 9
+        position:
+          serializedVersion: 2
+          x: 787
+          y: 829
+          width: 100
+          height: 100
+        expanded: 0
+        debug: 0
+        nodeLock: 0
+        buffType: 0
+        count: 10
+        handleType: 0
+        affectTarget: 0

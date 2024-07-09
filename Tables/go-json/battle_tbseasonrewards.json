@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "第1名",
+    "min_ranking": 1,
+    "max_ranking": 1,
+    "rewards": "[{\"goods_id\":2, \"number\":800}]"
+  },
+  {
+    "id": 2,
+    "title": "第2名",
+    "min_ranking": 2,
+    "max_ranking": 2,
+    "rewards": "[{\"goods_id\":2, \"number\":500}]"
+  },
+  {
+    "id": 3,
+    "title": "第3名",
+    "min_ranking": 3,
+    "max_ranking": 3,
+    "rewards": "[{\"goods_id\":2, \"number\":400}]"
+  },
+  {
+    "id": 4,
+    "title": "第4-50名",
+    "min_ranking": 4,
+    "max_ranking": 50,
+    "rewards": "[{\"goods_id\":2, \"number\":300}]"
+  },
+  {
+    "id": 5,
+    "title": "第51-100名",
+    "min_ranking": 51,
+    "max_ranking": 100,
+    "rewards": "[{\"goods_id\":2, \"number\":200}]"
+  },
+  {
+    "id": 6,
+    "title": "第101-200名",
+    "min_ranking": 101,
+    "max_ranking": 200,
+    "rewards": "[{\"goods_id\":2, \"number\":100}]"
+  }
+]

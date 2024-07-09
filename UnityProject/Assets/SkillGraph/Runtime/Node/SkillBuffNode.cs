@@ -11,7 +11,7 @@ namespace SkillGraph
         public BuffHandleType handleType;
         
         
-        [Setting("AffectTarget")]
+        // [Setting("AffectTarget")]
         public AffectTarget affectTarget;
         
         
@@ -20,8 +20,7 @@ namespace SkillGraph
 
         protected override void Process()
         {
-            
-            Debug.Log($"{name}:  {buffType}");
+            Debug.Log($"{name}:  {buffType}  count: {count}   handleType: {handleType}  affectTarget: {affectTarget}");
         }
     }
 }

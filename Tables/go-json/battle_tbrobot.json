@@ -1,0 +1,404 @@
+[
+  {
+    "id": 1,
+    "roleId": 1,
+    "score": 1010,
+    "military": 50
+  },
+  {
+    "id": 2,
+    "roleId": 1,
+    "score": 1010,
+    "military": 200
+  },
+  {
+    "id": 3,
+    "roleId": 2,
+    "score": 1050,
+    "military": 250
+  },
+  {
+    "id": 4,
+    "roleId": 3,
+    "score": 1090,
+    "military": 300
+  },
+  {
+    "id": 5,
+    "roleId": 1,
+    "score": 1110,
+    "military": 350
+  },
+  {
+    "id": 6,
+    "roleId": 2,
+    "score": 1150,
+    "military": 400
+  },
+  {
+    "id": 7,
+    "roleId": 3,
+    "score": 1190,
+    "military": 450
+  },
+  {
+    "id": 8,
+    "roleId": 1,
+    "score": 1210,
+    "military": 500
+  },
+  {
+    "id": 9,
+    "roleId": 2,
+    "score": 1250,
+    "military": 550
+  },
+  {
+    "id": 10,
+    "roleId": 3,
+    "score": 1290,
+    "military": 600
+  },
+  {
+    "id": 11,
+    "roleId": 1,
+    "score": 1310,
+    "military": 650
+  },
+  {
+    "id": 12,
+    "roleId": 2,
+    "score": 1350,
+    "military": 700
+  },
+  {
+    "id": 13,
+    "roleId": 3,
+    "score": 1390,
+    "military": 750
+  },
+  {
+    "id": 14,
+    "roleId": 1,
+    "score": 1410,
+    "military": 800
+  },
+  {
+    "id": 15,
+    "roleId": 2,
+    "score": 1450,
+    "military": 850
+  },
+  {
+    "id": 16,
+    "roleId": 3,
+    "score": 1490,
+    "military": 900
+  },
+  {
+    "id": 17,
+    "roleId": 1,
+    "score": 1510,
+    "military": 950
+  },
+  {
+    "id": 18,
+    "roleId": 2,
+    "score": 1550,
+    "military": 1000
+  },
+  {
+    "id": 19,
+    "roleId": 3,
+    "score": 1590,
+    "military": 1050
+  },
+  {
+    "id": 20,
+    "roleId": 1,
+    "score": 1610,
+    "military": 1100
+  },
+  {
+    "id": 21,
+    "roleId": 2,
+    "score": 1650,
+    "military": 1150
+  },
+  {
+    "id": 22,
+    "roleId": 3,
+    "score": 1690,
+    "military": 1200
+  },
+  {
+    "id": 23,
+    "roleId": 1,
+    "score": 1710,
+    "military": 1250
+  },
+  {
+    "id": 24,
+    "roleId": 2,
+    "score": 1750,
+    "military": 1300
+  },
+  {
+    "id": 25,
+    "roleId": 3,
+    "score": 1790,
+    "military": 1350
+  },
+  {
+    "id": 26,
+    "roleId": 1,
+    "score": 1810,
+    "military": 1400
+  },
+  {
+    "id": 27,
+    "roleId": 2,
+    "score": 1850,
+    "military": 1450
+  },
+  {
+    "id": 28,
+    "roleId": 3,
+    "score": 1890,
+    "military": 1500
+  },
+  {
+    "id": 29,
+    "roleId": 1,
+    "score": 1910,
+    "military": 1550
+  },
+  {
+    "id": 30,
+    "roleId": 2,
+    "score": 1950,
+    "military": 1600
+  },
+  {
+    "id": 31,
+    "roleId": 3,
+    "score": 1990,
+    "military": 1650
+  },
+  {
+    "id": 32,
+    "roleId": 1,
+    "score": 2010,
+    "military": 1700
+  },
+  {
+    "id": 33,
+    "roleId": 2,
+    "score": 2050,
+    "military": 1750
+  },
+  {
+    "id": 34,
+    "roleId": 3,
+    "score": 2090,
+    "military": 1800
+  },
+  {
+    "id": 35,
+    "roleId": 1,
+    "score": 2110,
+    "military": 1850
+  },
+  {
+    "id": 36,
+    "roleId": 2,
+    "score": 2150,
+    "military": 1900
+  },
+  {
+    "id": 37,
+    "roleId": 3,
+    "score": 2190,
+    "military": 1950
+  },
+  {
+    "id": 38,
+    "roleId": 1,
+    "score": 2210,
+    "military": 2000
+  },
+  {
+    "id": 39,
+    "roleId": 2,
+    "score": 2250,
+    "military": 2050
+  },
+  {
+    "id": 40,
+    "roleId": 3,
+    "score": 2290,
+    "military": 2100
+  },
+  {
+    "id": 41,
+    "roleId": 1,
+    "score": 2310,
+    "military": 2150
+  },
+  {
+    "id": 42,
+    "roleId": 2,
+    "score": 2350,
+    "military": 2200
+  },
+  {
+    "id": 43,
+    "roleId": 3,
+    "score": 2390,
+    "military": 2250
+  },
+  {
+    "id": 44,
+    "roleId": 1,
+    "score": 2410,
+    "military": 2300
+  },
+  {
+    "id": 45,
+    "roleId": 2,
+    "score": 2450,
+    "military": 2350
+  },
+  {
+    "id": 46,
+    "roleId": 3,
+    "score": 2490,
+    "military": 2400
+  },
+  {
+    "id": 47,
+    "roleId": 1,
+    "score": 2510,
+    "military": 2450
+  },
+  {
+    "id": 48,
+    "roleId": 2,
+    "score": 2550,
+    "military": 2500
+  },
+  {
+    "id": 49,
+    "roleId": 3,
+    "score": 2590,
+    "military": 2550
+  },
+  {
+    "id": 50,
+    "roleId": 1,
+    "score": 3110,
+    "military": 3350
+  },
+  {
+    "id": 51,
+    "roleId": 2,
+    "score": 3160,
+    "military": 3400
+  },
+  {
+    "id": 52,
+    "roleId": 3,
+    "score": 3190,
+    "military": 3450
+  },
+  {
+    "id": 53,
+    "roleId": 1,
+    "score": 3210,
+    "military": 3500
+  },
+  {
+    "id": 54,
+    "roleId": 2,
+    "score": 3260,
+    "military": 3550
+  },
+  {
+    "id": 55,
+    "roleId": 3,
+    "score": 3290,
+    "military": 3600
+  },
+  {
+    "id": 56,
+    "roleId": 1,
+    "score": 3310,
+    "military": 3650
+  },
+  {
+    "id": 57,
+    "roleId": 2,
+    "score": 3360,
+    "military": 3700
+  },
+  {
+    "id": 58,
+    "roleId": 3,
+    "score": 3390,
+    "military": 3750
+  },
+  {
+    "id": 59,
+    "roleId": 1,
+    "score": 3410,
+    "military": 3800
+  },
+  {
+    "id": 60,
+    "roleId": 2,
+    "score": 3460,
+    "military": 3850
+  },
+  {
+    "id": 61,
+    "roleId": 3,
+    "score": 3490,
+    "military": 3900
+  },
+  {
+    "id": 62,
+    "roleId": 1,
+    "score": 3510,
+    "military": 3950
+  },
+  {
+    "id": 63,
+    "roleId": 2,
+    "score": 3560,
+    "military": 4000
+  },
+  {
+    "id": 64,
+    "roleId": 3,
+    "score": 3590,
+    "military": 4050
+  },
+  {
+    "id": 65,
+    "roleId": 1,
+    "score": 3650,
+    "military": 4100
+  },
+  {
+    "id": 66,
+    "roleId": 2,
+    "score": 3700,
+    "military": 4150
+  },
+  {
+    "id": 67,
+    "roleId": 3,
+    "score": 3800,
+    "military": 4200
+  }
+]

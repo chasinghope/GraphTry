@@ -1,0 +1,777 @@
+[
+  {
+    "rankId": 15,
+    "name": "青铜",
+    "subRank": 1,
+    "subLevel": 5,
+    "score": 1000,
+    "baseHp": 25,
+    "basePower": 5,
+    "rewardScoreList": [
+      35,
+      30,
+      25,
+      10,
+      5,
+      0
+    ],
+    "rewardGoldList": [
+      12,
+      10,
+      8,
+      5,
+      2,
+      1
+    ]
+  },
+  {
+    "rankId": 14,
+    "name": "青铜",
+    "subRank": 1,
+    "subLevel": 4,
+    "score": 1100,
+    "baseHp": 27,
+    "basePower": 5,
+    "rewardScoreList": [
+      35,
+      30,
+      25,
+      10,
+      5,
+      0
+    ],
+    "rewardGoldList": [
+      12,
+      10,
+      8,
+      5,
+      2,
+      1
+    ]
+  },
+  {
+    "rankId": 13,
+    "name": "青铜",
+    "subRank": 1,
+    "subLevel": 3,
+    "score": 1200,
+    "baseHp": 30,
+    "basePower": 5,
+    "rewardScoreList": [
+      35,
+      30,
+      25,
+      10,
+      5,
+      0
+    ],
+    "rewardGoldList": [
+      12,
+      10,
+      8,
+      5,
+      2,
+      1
+    ]
+  },
+  {
+    "rankId": 12,
+    "name": "青铜",
+    "subRank": 1,
+    "subLevel": 2,
+    "score": 1300,
+    "baseHp": 32,
+    "basePower": 5,
+    "rewardScoreList": [
+      30,
+      25,
+      20,
+      8,
+      5,
+      0
+    ],
+    "rewardGoldList": [
+      14,
+      11,
+      9,
+      5,
+      3,
+      1
+    ]
+  },
+  {
+    "rankId": 11,
+    "name": "青铜",
+    "subRank": 1,
+    "subLevel": 1,
+    "score": 1400,
+    "baseHp": 35,
+    "basePower": 5,
+    "rewardScoreList": [
+      30,
+      25,
+      20,
+      8,
+      5,
+      0
+    ],
+    "rewardGoldList": [
+      14,
+      11,
+      9,
+      5,
+      3,
+      1
+    ]
+  },
+  {
+    "rankId": 25,
+    "name": "白银",
+    "subRank": 2,
+    "subLevel": 5,
+    "score": 1500,
+    "baseHp": 40,
+    "basePower": 6,
+    "rewardScoreList": [
+      25,
+      20,
+      18,
+      5,
+      2,
+      0
+    ],
+    "rewardGoldList": [
+      14,
+      11,
+      9,
+      5,
+      3,
+      1
+    ]
+  },
+  {
+    "rankId": 24,
+    "name": "白银",
+    "subRank": 2,
+    "subLevel": 4,
+    "score": 1600,
+    "baseHp": 45,
+    "basePower": 6,
+    "rewardScoreList": [
+      25,
+      20,
+      18,
+      5,
+      2,
+      0
+    ],
+    "rewardGoldList": [
+      14,
+      11,
+      9,
+      5,
+      3,
+      1
+    ]
+  },
+  {
+    "rankId": 23,
+    "name": "白银",
+    "subRank": 2,
+    "subLevel": 3,
+    "score": 1700,
+    "baseHp": 50,
+    "basePower": 6,
+    "rewardScoreList": [
+      25,
+      20,
+      18,
+      5,
+      2,
+      0
+    ],
+    "rewardGoldList": [
+      15,
+      12,
+      10,
+      6,
+      3,
+      1
+    ]
+  },
+  {
+    "rankId": 22,
+    "name": "白银",
+    "subRank": 2,
+    "subLevel": 2,
+    "score": 1800,
+    "baseHp": 55,
+    "basePower": 6,
+    "rewardScoreList": [
+      20,
+      19,
+      17,
+      2,
+      0,
+      -2
+    ],
+    "rewardGoldList": [
+      15,
+      12,
+      10,
+      6,
+      3,
+      0
+    ]
+  },
+  {
+    "rankId": 21,
+    "name": "白银",
+    "subRank": 2,
+    "subLevel": 1,
+    "score": 1900,
+    "baseHp": 60,
+    "basePower": 6,
+    "rewardScoreList": [
+      20,
+      19,
+      17,
+      2,
+      0,
+      -2
+    ],
+    "rewardGoldList": [
+      15,
+      12,
+      10,
+      6,
+      3,
+      0
+    ]
+  },
+  {
+    "rankId": 35,
+    "name": "黄金",
+    "subRank": 3,
+    "subLevel": 5,
+    "score": 2000,
+    "baseHp": 80,
+    "basePower": 7,
+    "rewardScoreList": [
+      18,
+      16,
+      15,
+      -5,
+      -8,
+      -10
+    ],
+    "rewardGoldList": [
+      17,
+      13,
+      11,
+      7,
+      3,
+      0
+    ]
+  },
+  {
+    "rankId": 34,
+    "name": "黄金",
+    "subRank": 3,
+    "subLevel": 4,
+    "score": 2100,
+    "baseHp": 85,
+    "basePower": 7,
+    "rewardScoreList": [
+      18,
+      16,
+      15,
+      -5,
+      -8,
+      -10
+    ],
+    "rewardGoldList": [
+      24,
+      19,
+      16,
+      10,
+      5,
+      0
+    ]
+  },
+  {
+    "rankId": 33,
+    "name": "黄金",
+    "subRank": 3,
+    "subLevel": 3,
+    "score": 2200,
+    "baseHp": 90,
+    "basePower": 7,
+    "rewardScoreList": [
+      18,
+      16,
+      15,
+      -5,
+      -8,
+      -10
+    ],
+    "rewardGoldList": [
+      26,
+      20,
+      17,
+      10,
+      5,
+      0
+    ]
+  },
+  {
+    "rankId": 32,
+    "name": "黄金",
+    "subRank": 3,
+    "subLevel": 2,
+    "score": 2300,
+    "baseHp": 95,
+    "basePower": 7,
+    "rewardScoreList": [
+      17,
+      14,
+      13,
+      -6,
+      -8,
+      -11
+    ],
+    "rewardGoldList": [
+      27,
+      22,
+      18,
+      11,
+      5,
+      0
+    ]
+  },
+  {
+    "rankId": 31,
+    "name": "黄金",
+    "subRank": 3,
+    "subLevel": 1,
+    "score": 2400,
+    "baseHp": 100,
+    "basePower": 7,
+    "rewardScoreList": [
+      17,
+      14,
+      13,
+      -6,
+      -8,
+      -11
+    ],
+    "rewardGoldList": [
+      29,
+      23,
+      19,
+      11,
+      6,
+      0
+    ]
+  },
+  {
+    "rankId": 45,
+    "name": "白金",
+    "subRank": 4,
+    "subLevel": 5,
+    "score": 2500,
+    "baseHp": 135,
+    "basePower": 8,
+    "rewardScoreList": [
+      16,
+      13,
+      12,
+      -8,
+      -9,
+      -12
+    ],
+    "rewardGoldList": [
+      29,
+      23,
+      19,
+      11,
+      6,
+      0
+    ]
+  },
+  {
+    "rankId": 44,
+    "name": "白金",
+    "subRank": 4,
+    "subLevel": 4,
+    "score": 2600,
+    "baseHp": 140,
+    "basePower": 8,
+    "rewardScoreList": [
+      16,
+      13,
+      12,
+      -8,
+      -9,
+      -12
+    ],
+    "rewardGoldList": [
+      29,
+      23,
+      19,
+      11,
+      6,
+      0
+    ]
+  },
+  {
+    "rankId": 43,
+    "name": "白金",
+    "subRank": 4,
+    "subLevel": 3,
+    "score": 2700,
+    "baseHp": 145,
+    "basePower": 8,
+    "rewardScoreList": [
+      16,
+      13,
+      12,
+      -8,
+      -9,
+      -12
+    ],
+    "rewardGoldList": [
+      29,
+      23,
+      19,
+      11,
+      6,
+      0
+    ]
+  },
+  {
+    "rankId": 42,
+    "name": "白金",
+    "subRank": 4,
+    "subLevel": 2,
+    "score": 2800,
+    "baseHp": 150,
+    "basePower": 8,
+    "rewardScoreList": [
+      15,
+      12,
+      11,
+      -8,
+      -10,
+      -13
+    ],
+    "rewardGoldList": [
+      30,
+      24,
+      20,
+      12,
+      6,
+      0
+    ]
+  },
+  {
+    "rankId": 41,
+    "name": "白金",
+    "subRank": 4,
+    "subLevel": 1,
+    "score": 2900,
+    "baseHp": 155,
+    "basePower": 8,
+    "rewardScoreList": [
+      15,
+      12,
+      11,
+      -8,
+      -10,
+      -13
+    ],
+    "rewardGoldList": [
+      30,
+      24,
+      20,
+      12,
+      6,
+      0
+    ]
+  },
+  {
+    "rankId": 55,
+    "name": "钻石",
+    "subRank": 5,
+    "subLevel": 5,
+    "score": 3000,
+    "baseHp": 205,
+    "basePower": 9,
+    "rewardScoreList": [
+      14,
+      11,
+      10,
+      -9,
+      -10,
+      -13
+    ],
+    "rewardGoldList": [
+      32,
+      25,
+      21,
+      13,
+      6,
+      0
+    ]
+  },
+  {
+    "rankId": 54,
+    "name": "钻石",
+    "subRank": 5,
+    "subLevel": 4,
+    "score": 3100,
+    "baseHp": 210,
+    "basePower": 9,
+    "rewardScoreList": [
+      14,
+      11,
+      10,
+      -9,
+      -10,
+      -13
+    ],
+    "rewardGoldList": [
+      32,
+      25,
+      21,
+      13,
+      6,
+      0
+    ]
+  },
+  {
+    "rankId": 53,
+    "name": "钻石",
+    "subRank": 5,
+    "subLevel": 3,
+    "score": 3200,
+    "baseHp": 215,
+    "basePower": 9,
+    "rewardScoreList": [
+      14,
+      11,
+      10,
+      -9,
+      -10,
+      -13
+    ],
+    "rewardGoldList": [
+      33,
+      26,
+      22,
+      13,
+      7,
+      0
+    ]
+  },
+  {
+    "rankId": 52,
+    "name": "钻石",
+    "subRank": 5,
+    "subLevel": 2,
+    "score": 3300,
+    "baseHp": 220,
+    "basePower": 9,
+    "rewardScoreList": [
+      13,
+      10,
+      9,
+      -9,
+      -11,
+      -14
+    ],
+    "rewardGoldList": [
+      33,
+      26,
+      22,
+      13,
+      7,
+      0
+    ]
+  },
+  {
+    "rankId": 51,
+    "name": "钻石",
+    "subRank": 5,
+    "subLevel": 1,
+    "score": 3400,
+    "baseHp": 225,
+    "basePower": 9,
+    "rewardScoreList": [
+      13,
+      10,
+      9,
+      -9,
+      -11,
+      -14
+    ],
+    "rewardGoldList": [
+      35,
+      28,
+      23,
+      14,
+      7,
+      0
+    ]
+  },
+  {
+    "rankId": 65,
+    "name": "大师",
+    "subRank": 6,
+    "subLevel": 5,
+    "score": 3500,
+    "baseHp": 275,
+    "basePower": 10,
+    "rewardScoreList": [
+      12,
+      9,
+      8,
+      -10,
+      -12,
+      -14
+    ],
+    "rewardGoldList": [
+      35,
+      28,
+      23,
+      14,
+      7,
+      0
+    ]
+  },
+  {
+    "rankId": 64,
+    "name": "大师",
+    "subRank": 6,
+    "subLevel": 4,
+    "score": 3600,
+    "baseHp": 280,
+    "basePower": 10,
+    "rewardScoreList": [
+      12,
+      9,
+      8,
+      -10,
+      -12,
+      -14
+    ],
+    "rewardGoldList": [
+      38,
+      30,
+      25,
+      15,
+      8,
+      0
+    ]
+  },
+  {
+    "rankId": 63,
+    "name": "大师",
+    "subRank": 6,
+    "subLevel": 3,
+    "score": 3700,
+    "baseHp": 285,
+    "basePower": 10,
+    "rewardScoreList": [
+      12,
+      9,
+      8,
+      -10,
+      -12,
+      -14
+    ],
+    "rewardGoldList": [
+      38,
+      30,
+      25,
+      15,
+      8,
+      0
+    ]
+  },
+  {
+    "rankId": 62,
+    "name": "大师",
+    "subRank": 6,
+    "subLevel": 2,
+    "score": 3800,
+    "baseHp": 290,
+    "basePower": 10,
+    "rewardScoreList": [
+      11,
+      9,
+      8,
+      -11,
+      -13,
+      -15
+    ],
+    "rewardGoldList": [
+      39,
+      31,
+      26,
+      16,
+      8,
+      0
+    ]
+  },
+  {
+    "rankId": 61,
+    "name": "大师",
+    "subRank": 6,
+    "subLevel": 1,
+    "score": 3900,
+    "baseHp": 300,
+    "basePower": 10,
+    "rewardScoreList": [
+      11,
+      9,
+      8,
+      -11,
+      -13,
+      -15
+    ],
+    "rewardGoldList": [
+      39,
+      31,
+      26,
+      16,
+      8,
+      0
+    ]
+  },
+  {
+    "rankId": 9999,
+    "name": "大师",
+    "subRank": 6,
+    "subLevel": 1,
+    "score": 999999,
+    "baseHp": 310,
+    "basePower": 10,
+    "rewardScoreList": [
+      11,
+      9,
+      8,
+      -11,
+      -13,
+      -15
+    ],
+    "rewardGoldList": [
+      39,
+      31,
+      26,
+      16,
+      8,
+      0
+    ]
+  }
+]

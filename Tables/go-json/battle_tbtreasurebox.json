@@ -1,0 +1,212 @@
+[
+  {
+    "rankId": 15,
+    "number": 1,
+    "woodProp": 9000,
+    "ironyProp": 1000,
+    "goldProp": 0
+  },
+  {
+    "rankId": 14,
+    "number": 1,
+    "woodProp": 8900,
+    "ironyProp": 1100,
+    "goldProp": 0
+  },
+  {
+    "rankId": 13,
+    "number": 1,
+    "woodProp": 8800,
+    "ironyProp": 1200,
+    "goldProp": 0
+  },
+  {
+    "rankId": 12,
+    "number": 2,
+    "woodProp": 8700,
+    "ironyProp": 1300,
+    "goldProp": 0
+  },
+  {
+    "rankId": 11,
+    "number": 2,
+    "woodProp": 8600,
+    "ironyProp": 1400,
+    "goldProp": 0
+  },
+  {
+    "rankId": 25,
+    "number": 3,
+    "woodProp": 8000,
+    "ironyProp": 1500,
+    "goldProp": 500
+  },
+  {
+    "rankId": 24,
+    "number": 3,
+    "woodProp": 7900,
+    "ironyProp": 1600,
+    "goldProp": 500
+  },
+  {
+    "rankId": 23,
+    "number": 3,
+    "woodProp": 7800,
+    "ironyProp": 1700,
+    "goldProp": 500
+  },
+  {
+    "rankId": 22,
+    "number": 4,
+    "woodProp": 7600,
+    "ironyProp": 1800,
+    "goldProp": 600
+  },
+  {
+    "rankId": 21,
+    "number": 4,
+    "woodProp": 7500,
+    "ironyProp": 1900,
+    "goldProp": 600
+  },
+  {
+    "rankId": 35,
+    "number": 5,
+    "woodProp": 7300,
+    "ironyProp": 2000,
+    "goldProp": 700
+  },
+  {
+    "rankId": 34,
+    "number": 5,
+    "woodProp": 7100,
+    "ironyProp": 2100,
+    "goldProp": 800
+  },
+  {
+    "rankId": 33,
+    "number": 5,
+    "woodProp": 6900,
+    "ironyProp": 2200,
+    "goldProp": 900
+  },
+  {
+    "rankId": 32,
+    "number": 6,
+    "woodProp": 6700,
+    "ironyProp": 2300,
+    "goldProp": 1000
+  },
+  {
+    "rankId": 31,
+    "number": 6,
+    "woodProp": 6600,
+    "ironyProp": 2400,
+    "goldProp": 1000
+  },
+  {
+    "rankId": 45,
+    "number": 7,
+    "woodProp": 6400,
+    "ironyProp": 2500,
+    "goldProp": 1100
+  },
+  {
+    "rankId": 44,
+    "number": 7,
+    "woodProp": 6200,
+    "ironyProp": 2600,
+    "goldProp": 1200
+  },
+  {
+    "rankId": 43,
+    "number": 7,
+    "woodProp": 6000,
+    "ironyProp": 2700,
+    "goldProp": 1300
+  },
+  {
+    "rankId": 42,
+    "number": 8,
+    "woodProp": 5800,
+    "ironyProp": 2800,
+    "goldProp": 1400
+  },
+  {
+    "rankId": 41,
+    "number": 8,
+    "woodProp": 5600,
+    "ironyProp": 2900,
+    "goldProp": 1500
+  },
+  {
+    "rankId": 55,
+    "number": 9,
+    "woodProp": 5400,
+    "ironyProp": 3000,
+    "goldProp": 1600
+  },
+  {
+    "rankId": 54,
+    "number": 9,
+    "woodProp": 5200,
+    "ironyProp": 3100,
+    "goldProp": 1700
+  },
+  {
+    "rankId": 53,
+    "number": 9,
+    "woodProp": 5000,
+    "ironyProp": 3200,
+    "goldProp": 1800
+  },
+  {
+    "rankId": 52,
+    "number": 10,
+    "woodProp": 4800,
+    "ironyProp": 3300,
+    "goldProp": 1900
+  },
+  {
+    "rankId": 51,
+    "number": 10,
+    "woodProp": 4600,
+    "ironyProp": 3400,
+    "goldProp": 2000
+  },
+  {
+    "rankId": 65,
+    "number": 11,
+    "woodProp": 4400,
+    "ironyProp": 3500,
+    "goldProp": 2100
+  },
+  {
+    "rankId": 64,
+    "number": 11,
+    "woodProp": 4200,
+    "ironyProp": 3600,
+    "goldProp": 2200
+  },
+  {
+    "rankId": 63,
+    "number": 11,
+    "woodProp": 4000,
+    "ironyProp": 3700,
+    "goldProp": 2300
+  },
+  {
+    "rankId": 62,
+    "number": 12,
+    "woodProp": 3800,
+    "ironyProp": 3800,
+    "goldProp": 2400
+  },
+  {
+    "rankId": 61,
+    "number": 12,
+    "woodProp": 3600,
+    "ironyProp": 3900,
+    "goldProp": 2500
+  }
+]

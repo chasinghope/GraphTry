@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "minScore": 0,
+    "maxScore": 1000,
+    "common": 8000,
+    "rare": 1000,
+    "epic": 900,
+    "legendary": 50,
+    "mythical": 30,
+    "special": 20
+  },
+  {
+    "id": 2,
+    "minScore": 1001,
+    "maxScore": 1500,
+    "common": 7500,
+    "rare": 1500,
+    "epic": 900,
+    "legendary": 50,
+    "mythical": 30,
+    "special": 20
+  },
+  {
+    "id": 3,
+    "minScore": 1501,
+    "maxScore": 2000,
+    "common": 6700,
+    "rare": 2000,
+    "epic": 1200,
+    "legendary": 50,
+    "mythical": 30,
+    "special": 20
+  },
+  {
+    "id": 4,
+    "minScore": 2001,
+    "maxScore": 2500,
+    "common": 5000,
+    "rare": 2900,
+    "epic": 1500,
+    "legendary": 300,
+    "mythical": 200,
+    "special": 100
+  },
+  {
+    "id": 5,
+    "minScore": 2501,
+    "maxScore": 3000,
+    "common": 4000,
+    "rare": 3300,
+    "epic": 2100,
+    "legendary": 300,
+    "mythical": 200,
+    "special": 100
+  },
+  {
+    "id": 6,
+    "minScore": 3001,
+    "maxScore": 3500,
+    "common": 3000,
+    "rare": 3500,
+    "epic": 2200,
+    "legendary": 700,
+    "mythical": 400,
+    "special": 200
+  },
+  {
+    "id": 7,
+    "minScore": 3501,
+    "maxScore": 99999999,
+    "common": 2000,
+    "rare": 3800,
+    "epic": 2400,
+    "legendary": 1000,
+    "mythical": 500,
+    "special": 300
+  }
+]

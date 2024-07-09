@@ -1,0 +1,4215 @@
+[
+  {
+    "id": 1101,
+    "name": "弹珠",
+    "canuse": true,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [
+      2048
+    ],
+    "placingIds": [],
+    "wgirds": 1,
+    "hgirds": 1,
+    "RoleType": 0,
+    "ItemType": 2048,
+    "audioseplace": "weaponsound",
+    "ElementType": 16,
+    "ItemQuality": 0,
+    "assetPath": "Item_1101",
+    "Price": 2,
+    "AvaiNumber": 4
+  },
+  {
+    "id": 1102,
+    "name": "磨刀石",
+    "canuse": true,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [
+      16
+    ],
+    "placingIds": [
+      100
+    ],
+    "wgirds": 1,
+    "hgirds": 1,
+    "RoleType": 0,
+    "ItemType": 4,
+    "audioseplace": "accessorysound",
+    "ElementType": 0,
+    "ItemQuality": 0,
+    "assetPath": "Item_1102",
+    "Price": 4,
+    "AvaiNumber": 4
+  },
+  {
+    "id": 1103,
+    "name": "萝卜刀",
+    "canuse": true,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [
+      512,
+      8192
+    ],
+    "placingIds": [],
+    "wgirds": 1,
+    "hgirds": 2,
+    "RoleType": 0,
+    "ItemType": 128,
+    "audioseplace": "weaponsound",
+    "ElementType": 0,
+    "ItemQuality": 0,
+    "assetPath": "Item_1103",
+    "Price": 3,
+    "AvaiNumber": 4
+  },
+  {
+    "id": 1104,
+    "name": "木盾",
+    "canuse": true,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [],
+    "placingIds": [],
+    "wgirds": 2,
+    "hgirds": 2,
+    "RoleType": 0,
+    "ItemType": 4096,
+    "audioseplace": "armorsound",
+    "ElementType": 0,
+    "ItemQuality": 0,
+    "assetPath": "Item_1104",
+    "Price": 4,
+    "AvaiNumber": 4
+  },
+  {
+    "id": 1105,
+    "name": "锅铲",
+    "canuse": true,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [
+      512,
+      8192
+    ],
+    "placingIds": [
+      103
+    ],
+    "wgirds": 2,
+    "hgirds": 2,
+    "RoleType": 0,
+    "ItemType": 128,
+    "audioseplace": "weaponsound",
+    "ElementType": 0,
+    "ItemQuality": 0,
+    "assetPath": "Item_1105",
+    "Price": 4,
+    "AvaiNumber": 4
+  },
+  {
+    "id": 1106,
+    "name": "扫帚",
+    "canuse": true,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [
+      512,
+      8192
+    ],
+    "placingIds": [],
+    "wgirds": 1,
+    "hgirds": 4,
+    "RoleType": 0,
+    "ItemType": 128,
+    "audioseplace": "weaponsound",
+    "ElementType": 0,
+    "ItemQuality": 0,
+    "assetPath": "Item_1106",
+    "Price": 4,
+    "AvaiNumber": 4
+  },
+  {
+    "id": 1107,
+    "name": "香蕉",
+    "canuse": true,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [
+      4096,
+      8192
+    ],
+    "placingIds": [
+      127
+    ],
+    "wgirds": 2,
+    "hgirds": 2,
+    "RoleType": 0,
+    "ItemType": 8,
+    "audioseplace": "fruitsound",
+    "ElementType": 16,
+    "ItemQuality": 0,
+    "assetPath": "Item_1107",
+    "Price": 3,
+    "AvaiNumber": 4
+  },
+  {
+    "id": 1108,
+    "name": "火石",
+    "canuse": true,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [],
+    "placingIds": [],
+    "wgirds": 1,
+    "hgirds": 1,
+    "RoleType": 0,
+    "ItemType": 16,
+    "audioseplace": "gemsound",
+    "ElementType": 0,
+    "ItemQuality": 0,
+    "assetPath": "Attachment_1108",
+    "Price": 2,
+    "AvaiNumber": 4
+  },
+  {
+    "id": 1109,
+    "name": "大葱",
+    "canuse": true,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [
+      4096,
+      32768,
+      8192
+    ],
+    "placingIds": [
+      102
+    ],
+    "wgirds": 1,
+    "hgirds": 2,
+    "RoleType": 0,
+    "ItemType": 8,
+    "audioseplace": "fruitsound",
+    "ElementType": 16,
+    "ItemQuality": 0,
+    "assetPath": "Item_1109",
+    "Price": 2,
+    "AvaiNumber": 4
+  },
+  {
+    "id": 1110,
+    "name": "草药",
+    "canuse": true,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [
+      16
+    ],
+    "placingIds": [],
+    "wgirds": 1,
+    "hgirds": 1,
+    "RoleType": 0,
+    "ItemType": 4,
+    "audioseplace": "accessorysound",
+    "ElementType": 0,
+    "ItemQuality": 0,
+    "assetPath": "Item_1110",
+    "Price": 4,
+    "AvaiNumber": 6
+  },
+  {
+    "id": 1111,
+    "name": "短弓",
+    "canuse": true,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [
+      512,
+      8192
+    ],
+    "placingIds": [],
+    "wgirds": 1,
+    "hgirds": 2,
+    "RoleType": 0,
+    "ItemType": 2048,
+    "audioseplace": "weaponsound",
+    "ElementType": 0,
+    "ItemQuality": 0,
+    "assetPath": "Item_1111",
+    "Price": 4,
+    "AvaiNumber": 4
+  },
+  {
+    "id": 1112,
+    "name": "牛角",
+    "canuse": true,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [
+      16
+    ],
+    "placingIds": [],
+    "wgirds": 1,
+    "hgirds": 2,
+    "RoleType": 0,
+    "ItemType": 4,
+    "audioseplace": "accessorysound",
+    "ElementType": 16,
+    "ItemQuality": 0,
+    "assetPath": "Item_1112",
+    "Price": 4,
+    "AvaiNumber": 6
+  },
+  {
+    "id": 1113,
+    "name": "招财猫",
+    "canuse": true,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [
+      16
+    ],
+    "placingIds": [
+      101
+    ],
+    "wgirds": 2,
+    "hgirds": 1,
+    "RoleType": 0,
+    "ItemType": 4,
+    "audioseplace": "accessorysound",
+    "ElementType": 0,
+    "ItemQuality": 0,
+    "assetPath": "Item_1113",
+    "Price": 3,
+    "AvaiNumber": 4
+  },
+  {
+    "id": 1114,
+    "name": "一捧家乡土",
+    "canuse": true,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [
+      16
+    ],
+    "placingIds": [],
+    "wgirds": 1,
+    "hgirds": 1,
+    "RoleType": 0,
+    "ItemType": 4,
+    "audioseplace": "accessorysound",
+    "ElementType": 16,
+    "ItemQuality": 0,
+    "assetPath": "Item_1114",
+    "Price": 2,
+    "AvaiNumber": 6
+  },
+  {
+    "id": 1115,
+    "name": "火苗",
+    "canuse": true,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [
+      16,
+      256
+    ],
+    "placingIds": [],
+    "wgirds": 1,
+    "hgirds": 1,
+    "RoleType": 2,
+    "ItemType": 4,
+    "audioseplace": "accessorysound",
+    "ElementType": 2,
+    "ItemQuality": 0,
+    "assetPath": "Item_1115",
+    "Price": 2,
+    "AvaiNumber": 6
+  },
+  {
+    "id": 1181,
+    "name": "碎裂红宝石",
+    "canuse": true,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [],
+    "placingIds": [],
+    "wgirds": 1,
+    "hgirds": 1,
+    "RoleType": 0,
+    "ItemType": 16,
+    "audioseplace": "gemsound",
+    "ElementType": 0,
+    "ItemQuality": 0,
+    "assetPath": "Attachment_1181",
+    "Price": 2,
+    "AvaiNumber": 4
+  },
+  {
+    "id": 1182,
+    "name": "碎裂黄宝石",
+    "canuse": true,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [],
+    "placingIds": [],
+    "wgirds": 1,
+    "hgirds": 1,
+    "RoleType": 0,
+    "ItemType": 16,
+    "audioseplace": "gemsound",
+    "ElementType": 0,
+    "ItemQuality": 0,
+    "assetPath": "Attachment_1182",
+    "Price": 2,
+    "AvaiNumber": 4
+  },
+  {
+    "id": 1183,
+    "name": "碎裂蓝宝石",
+    "canuse": true,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [],
+    "placingIds": [],
+    "wgirds": 1,
+    "hgirds": 1,
+    "RoleType": 0,
+    "ItemType": 16,
+    "audioseplace": "gemsound",
+    "ElementType": 0,
+    "ItemQuality": 0,
+    "assetPath": "Attachment_1183",
+    "Price": 2,
+    "AvaiNumber": 4
+  },
+  {
+    "id": 1184,
+    "name": "碎裂紫宝石",
+    "canuse": true,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [],
+    "placingIds": [],
+    "wgirds": 1,
+    "hgirds": 1,
+    "RoleType": 0,
+    "ItemType": 16,
+    "audioseplace": "gemsound",
+    "ElementType": 0,
+    "ItemQuality": 0,
+    "assetPath": "Attachment_1184",
+    "Price": 2,
+    "AvaiNumber": 4
+  },
+  {
+    "id": 1201,
+    "name": "一包弹珠",
+    "canuse": true,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [],
+    "placingIds": [],
+    "wgirds": 2,
+    "hgirds": 1,
+    "RoleType": 0,
+    "ItemType": 4,
+    "audioseplace": "accessorysound",
+    "ElementType": 0,
+    "ItemQuality": 1,
+    "assetPath": "Item_1201",
+    "Price": 5,
+    "AvaiNumber": 3
+  },
+  {
+    "id": 1202,
+    "name": "燃烧火石",
+    "canuse": true,
+    "compositeMain": 1108,
+    "compositeList": [
+      1108
+    ],
+    "compriority": 1,
+    "isOrigin": false,
+    "placingType": [
+      256
+    ],
+    "placingIds": [],
+    "wgirds": 1,
+    "hgirds": 1,
+    "RoleType": 0,
+    "ItemType": 16,
+    "audioseplace": "gemsound",
+    "ElementType": 2,
+    "ItemQuality": 1,
+    "assetPath": "Attachment_1202",
+    "Price": 4,
+    "AvaiNumber": 4
+  },
+  {
+    "id": 1203,
+    "name": "木工锤",
+    "canuse": true,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [
+      512,
+      8192
+    ],
+    "placingIds": [],
+    "wgirds": 3,
+    "hgirds": 3,
+    "RoleType": 0,
+    "ItemType": 128,
+    "audioseplace": "weaponsound",
+    "ElementType": 0,
+    "ItemQuality": 1,
+    "assetPath": "Item_1203",
+    "Price": 7,
+    "AvaiNumber": 3
+  },
+  {
+    "id": 1204,
+    "name": "松鼠",
+    "canuse": true,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [
+      32
+    ],
+    "placingIds": [
+      106
+    ],
+    "wgirds": 2,
+    "hgirds": 2,
+    "RoleType": 3,
+    "ItemType": 256,
+    "audioseplace": "animalsound",
+    "ElementType": 16,
+    "ItemQuality": 1,
+    "assetPath": "Item_1204",
+    "Price": 5,
+    "AvaiNumber": 3
+  },
+  {
+    "id": 1205,
+    "name": "牛角短弓",
+    "canuse": true,
+    "compositeMain": 1111,
+    "compositeList": [
+      1112
+    ],
+    "compriority": 2,
+    "isOrigin": false,
+    "placingType": [
+      512,
+      8192
+    ],
+    "placingIds": [],
+    "wgirds": 1,
+    "hgirds": 2,
+    "RoleType": 3,
+    "ItemType": 2048,
+    "audioseplace": "weaponsound",
+    "ElementType": 16,
+    "ItemQuality": 1,
+    "assetPath": "Item_1205",
+    "Price": 5,
+    "AvaiNumber": 3
+  },
+  {
+    "id": 1206,
+    "name": "一包金币",
+    "canuse": true,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [],
+    "placingIds": [],
+    "wgirds": 1,
+    "hgirds": 1,
+    "RoleType": 0,
+    "ItemType": 4,
+    "audioseplace": "accessorysound",
+    "ElementType": 0,
+    "ItemQuality": 1,
+    "assetPath": "Item_1206",
+    "Price": 9,
+    "AvaiNumber": 4
+  },
+  {
+    "id": 1207,
+    "name": "长矛",
+    "canuse": true,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [
+      512,
+      8192
+    ],
+    "placingIds": [
+      111
+    ],
+    "wgirds": 1,
+    "hgirds": 4,
+    "RoleType": 0,
+    "ItemType": 128,
+    "audioseplace": "weaponsound",
+    "ElementType": 0,
+    "ItemQuality": 1,
+    "assetPath": "Item_1207",
+    "Price": 6,
+    "AvaiNumber": 3
+  },
+  {
+    "id": 1208,
+    "name": "匕首",
+    "canuse": true,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [
+      512,
+      8192
+    ],
+    "placingIds": [],
+    "wgirds": 1,
+    "hgirds": 2,
+    "RoleType": 0,
+    "ItemType": 128,
+    "audioseplace": "weaponsound",
+    "ElementType": 0,
+    "ItemQuality": 1,
+    "assetPath": "Item_1208",
+    "Price": 5,
+    "AvaiNumber": 4
+  },
+  {
+    "id": 1209,
+    "name": "硬皮甲",
+    "canuse": true,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [
+      32768
+    ],
+    "placingIds": [],
+    "wgirds": 2,
+    "hgirds": 3,
+    "RoleType": 0,
+    "ItemType": 2,
+    "audioseplace": "armorsound",
+    "ElementType": 0,
+    "ItemQuality": 1,
+    "assetPath": "Item_1209",
+    "Price": 7,
+    "AvaiNumber": 3
+  },
+  {
+    "id": 1210,
+    "name": "加速手套",
+    "canuse": true,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [],
+    "placingIds": [
+      105
+    ],
+    "wgirds": 2,
+    "hgirds": 1,
+    "RoleType": 0,
+    "ItemType": 32,
+    "audioseplace": "armorsound",
+    "ElementType": 0,
+    "ItemQuality": 1,
+    "assetPath": "Item_1210",
+    "Price": 5,
+    "AvaiNumber": 3
+  },
+  {
+    "id": 1211,
+    "name": "牛角盾",
+    "canuse": true,
+    "compositeMain": 1104,
+    "compositeList": [
+      1112
+    ],
+    "compriority": 3,
+    "isOrigin": false,
+    "placingType": [],
+    "placingIds": [],
+    "wgirds": 2,
+    "hgirds": 2,
+    "RoleType": 0,
+    "ItemType": 4096,
+    "audioseplace": "armorsound",
+    "ElementType": 0,
+    "ItemQuality": 1,
+    "assetPath": "Item_1211",
+    "Price": 6,
+    "AvaiNumber": 3
+  },
+  {
+    "id": 1213,
+    "name": "治疗药水",
+    "canuse": true,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [
+      1024
+    ],
+    "placingIds": [
+      114
+    ],
+    "wgirds": 1,
+    "hgirds": 2,
+    "RoleType": 0,
+    "ItemType": 1024,
+    "audioseplace": "potionsound",
+    "ElementType": 0,
+    "ItemQuality": 1,
+    "assetPath": "Item_1213",
+    "Price": 5,
+    "AvaiNumber": 3
+  },
+  {
+    "id": 1214,
+    "name": "苹果",
+    "canuse": true,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [
+      4096,
+      8192
+    ],
+    "placingIds": [
+      107
+    ],
+    "wgirds": 1,
+    "hgirds": 1,
+    "RoleType": 0,
+    "ItemType": 8,
+    "audioseplace": "fruitsound",
+    "ElementType": 16,
+    "ItemQuality": 1,
+    "assetPath": "Item_1214",
+    "Price": 3,
+    "AvaiNumber": 4
+  },
+  {
+    "id": 1215,
+    "name": "胡萝卜",
+    "canuse": true,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [
+      4096,
+      8192
+    ],
+    "placingIds": [
+      108
+    ],
+    "wgirds": 2,
+    "hgirds": 1,
+    "RoleType": 0,
+    "ItemType": 8,
+    "audioseplace": "fruitsound",
+    "ElementType": 16,
+    "ItemQuality": 1,
+    "assetPath": "Item_1215",
+    "Price": 4,
+    "AvaiNumber": 4
+  },
+  {
+    "id": 1216,
+    "name": "史莱姆",
+    "canuse": true,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [
+      32,
+      8192
+    ],
+    "placingIds": [
+      109
+    ],
+    "wgirds": 2,
+    "hgirds": 2,
+    "RoleType": 0,
+    "ItemType": 256,
+    "audioseplace": "animalsound",
+    "ElementType": 0,
+    "ItemQuality": 1,
+    "assetPath": "Item_1216",
+    "Price": 5,
+    "AvaiNumber": 3
+  },
+  {
+    "id": 1217,
+    "name": "飞斧",
+    "canuse": true,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [
+      512,
+      8192
+    ],
+    "placingIds": [],
+    "wgirds": 2,
+    "hgirds": 3,
+    "RoleType": 1,
+    "ItemType": 128,
+    "audioseplace": "weaponsound",
+    "ElementType": 0,
+    "ItemQuality": 1,
+    "assetPath": "Item_1217",
+    "Price": 6,
+    "AvaiNumber": 3
+  },
+  {
+    "id": 1218,
+    "name": "辣椒",
+    "canuse": true,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [
+      4096,
+      8192
+    ],
+    "placingIds": [
+      110
+    ],
+    "wgirds": 1,
+    "hgirds": 2,
+    "RoleType": 0,
+    "ItemType": 8,
+    "audioseplace": "fruitsound",
+    "ElementType": 16,
+    "ItemQuality": 1,
+    "assetPath": "Item_1218",
+    "Price": 5,
+    "AvaiNumber": 4
+  },
+  {
+    "id": 1219,
+    "name": "兰花",
+    "canuse": true,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [
+      16
+    ],
+    "placingIds": [],
+    "wgirds": 1,
+    "hgirds": 1,
+    "RoleType": 3,
+    "ItemType": 4,
+    "audioseplace": "accessorysound",
+    "ElementType": 16,
+    "ItemQuality": 1,
+    "assetPath": "Item_1219",
+    "Price": 2,
+    "AvaiNumber": 6
+  },
+  {
+    "id": 1220,
+    "name": "火炬",
+    "canuse": true,
+    "compositeMain": 1103,
+    "compositeList": [
+      1108
+    ],
+    "compriority": 4,
+    "isOrigin": false,
+    "placingType": [
+      512,
+      8192
+    ],
+    "placingIds": [],
+    "wgirds": 1,
+    "hgirds": 2,
+    "RoleType": 0,
+    "ItemType": 128,
+    "audioseplace": "weaponsound",
+    "ElementType": 0,
+    "ItemQuality": 1,
+    "assetPath": "Item_1220",
+    "Price": 6,
+    "AvaiNumber": 3
+  },
+  {
+    "id": 1281,
+    "name": "圆形红宝石",
+    "canuse": true,
+    "compositeMain": 1181,
+    "compositeList": [
+      1181
+    ],
+    "compriority": 5,
+    "isOrigin": false,
+    "placingType": [],
+    "placingIds": [],
+    "wgirds": 1,
+    "hgirds": 1,
+    "RoleType": 0,
+    "ItemType": 16,
+    "audioseplace": "gemsound",
+    "ElementType": 0,
+    "ItemQuality": 1,
+    "assetPath": "Attachment_1281",
+    "Price": 5,
+    "AvaiNumber": 3
+  },
+  {
+    "id": 1282,
+    "name": "圆形黄宝石",
+    "canuse": true,
+    "compositeMain": 1182,
+    "compositeList": [
+      1182
+    ],
+    "compriority": 6,
+    "isOrigin": false,
+    "placingType": [],
+    "placingIds": [],
+    "wgirds": 1,
+    "hgirds": 1,
+    "RoleType": 0,
+    "ItemType": 16,
+    "audioseplace": "gemsound",
+    "ElementType": 0,
+    "ItemQuality": 1,
+    "assetPath": "Attachment_1282",
+    "Price": 5,
+    "AvaiNumber": 3
+  },
+  {
+    "id": 1283,
+    "name": "圆形蓝宝石",
+    "canuse": true,
+    "compositeMain": 1183,
+    "compositeList": [
+      1183
+    ],
+    "compriority": 7,
+    "isOrigin": false,
+    "placingType": [],
+    "placingIds": [],
+    "wgirds": 1,
+    "hgirds": 1,
+    "RoleType": 0,
+    "ItemType": 16,
+    "audioseplace": "gemsound",
+    "ElementType": 0,
+    "ItemQuality": 1,
+    "assetPath": "Attachment_1283",
+    "Price": 5,
+    "AvaiNumber": 3
+  },
+  {
+    "id": 1284,
+    "name": "圆形紫宝石",
+    "canuse": true,
+    "compositeMain": 1184,
+    "compositeList": [
+      1184
+    ],
+    "compriority": 8,
+    "isOrigin": false,
+    "placingType": [],
+    "placingIds": [],
+    "wgirds": 1,
+    "hgirds": 1,
+    "RoleType": 0,
+    "ItemType": 16,
+    "audioseplace": "gemsound",
+    "ElementType": 0,
+    "ItemQuality": 1,
+    "assetPath": "Attachment_1284",
+    "Price": 5,
+    "AvaiNumber": 3
+  },
+  {
+    "id": 1301,
+    "name": "血藤",
+    "canuse": true,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [
+      512
+    ],
+    "placingIds": [],
+    "wgirds": 2,
+    "hgirds": 3,
+    "RoleType": 0,
+    "ItemType": 128,
+    "audioseplace": "weaponsound",
+    "ElementType": 16,
+    "ItemQuality": 2,
+    "assetPath": "Item_1301",
+    "Price": 8,
+    "AvaiNumber": 3
+  },
+  {
+    "id": 1302,
+    "name": "硬皮靴",
+    "canuse": true,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [
+      32768
+    ],
+    "placingIds": [],
+    "wgirds": 1,
+    "hgirds": 2,
+    "RoleType": 0,
+    "ItemType": 8192,
+    "audioseplace": "armorsound",
+    "ElementType": 0,
+    "ItemQuality": 2,
+    "assetPath": "Item_1302",
+    "Price": 6,
+    "AvaiNumber": 3
+  },
+  {
+    "id": 1303,
+    "name": "鲜血之刃",
+    "canuse": true,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [
+      512,
+      8192,
+      65536
+    ],
+    "placingIds": [],
+    "wgirds": 1,
+    "hgirds": 3,
+    "RoleType": 0,
+    "ItemType": 128,
+    "audioseplace": "weaponsound",
+    "ElementType": 32,
+    "ItemQuality": 2,
+    "assetPath": "Item_1303",
+    "Price": 7,
+    "AvaiNumber": 3
+  },
+  {
+    "id": 1304,
+    "name": "鼹鼠",
+    "canuse": true,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [
+      32,
+      8192
+    ],
+    "placingIds": [
+      112
+    ],
+    "wgirds": 1,
+    "hgirds": 2,
+    "RoleType": 3,
+    "ItemType": 256,
+    "audioseplace": "animalsound",
+    "ElementType": 16,
+    "ItemQuality": 2,
+    "assetPath": "Item_1304",
+    "Price": 6,
+    "AvaiNumber": 4
+  },
+  {
+    "id": 1305,
+    "name": "火焰长矛",
+    "canuse": true,
+    "compositeMain": 1207,
+    "compositeList": [
+      1115,
+      1115
+    ],
+    "compriority": 9,
+    "isOrigin": false,
+    "placingType": [
+      512,
+      8192,
+      256
+    ],
+    "placingIds": [
+      113
+    ],
+    "wgirds": 1,
+    "hgirds": 4,
+    "RoleType": 2,
+    "ItemType": 128,
+    "audioseplace": "weaponsound",
+    "ElementType": 2,
+    "ItemQuality": 2,
+    "assetPath": "Item_1305",
+    "Price": 8,
+    "AvaiNumber": 3
+  },
+  {
+    "id": 1306,
+    "name": "月牙斧",
+    "canuse": true,
+    "compositeMain": 1217,
+    "compositeList": [
+      1217
+    ],
+    "compriority": 10,
+    "isOrigin": false,
+    "placingType": [
+      512
+    ],
+    "placingIds": [],
+    "wgirds": 3,
+    "hgirds": 4,
+    "RoleType": 1,
+    "ItemType": 128,
+    "audioseplace": "weaponsound",
+    "ElementType": 0,
+    "ItemQuality": 2,
+    "assetPath": "Item_1306",
+    "Price": 11,
+    "AvaiNumber": 3
+  },
+  {
+    "id": 1307,
+    "name": "强化药水",
+    "canuse": true,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [
+      1024
+    ],
+    "placingIds": [
+      115
+    ],
+    "wgirds": 1,
+    "hgirds": 2,
+    "RoleType": 0,
+    "ItemType": 1024,
+    "audioseplace": "potionsound",
+    "ElementType": 0,
+    "ItemQuality": 2,
+    "assetPath": "Item_1307",
+    "Price": 5,
+    "AvaiNumber": 3
+  },
+  {
+    "id": 1308,
+    "name": "幸运短弓",
+    "canuse": true,
+    "compositeMain": 1111,
+    "compositeList": [
+      1219,
+      1219
+    ],
+    "compriority": 11,
+    "isOrigin": false,
+    "placingType": [
+      512,
+      8192
+    ],
+    "placingIds": [],
+    "wgirds": 1,
+    "hgirds": 2,
+    "RoleType": 3,
+    "ItemType": 2048,
+    "audioseplace": "weaponsound",
+    "ElementType": 16,
+    "ItemQuality": 2,
+    "assetPath": "Item_1308",
+    "Price": 7,
+    "AvaiNumber": 3
+  },
+  {
+    "id": 1309,
+    "name": "火焰短刀",
+    "canuse": true,
+    "compositeMain": 1319,
+    "compositeList": [
+      1115,
+      1115
+    ],
+    "compriority": 12,
+    "isOrigin": false,
+    "placingType": [
+      512,
+      8192,
+      256
+    ],
+    "placingIds": [
+      116
+    ],
+    "wgirds": 1,
+    "hgirds": 2,
+    "RoleType": 2,
+    "ItemType": 128,
+    "audioseplace": "weaponsound",
+    "ElementType": 2,
+    "ItemQuality": 2,
+    "assetPath": "Item_1309",
+    "Price": 8,
+    "AvaiNumber": 3
+  },
+  {
+    "id": 1310,
+    "name": "骷髅帽",
+    "canuse": true,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [],
+    "placingIds": [],
+    "wgirds": 1,
+    "hgirds": 2,
+    "RoleType": 0,
+    "ItemType": 64,
+    "audioseplace": "armorsound",
+    "ElementType": 0,
+    "ItemQuality": 2,
+    "assetPath": "Item_1310",
+    "Price": 7,
+    "AvaiNumber": 3
+  },
+  {
+    "id": 1311,
+    "name": "胡萝卜史莱姆",
+    "canuse": true,
+    "compositeMain": 1216,
+    "compositeList": [
+      1215,
+      1215
+    ],
+    "compriority": 13,
+    "isOrigin": false,
+    "placingType": [
+      32,
+      8192
+    ],
+    "placingIds": [
+      117
+    ],
+    "wgirds": 2,
+    "hgirds": 2,
+    "RoleType": 0,
+    "ItemType": 256,
+    "audioseplace": "animalsound",
+    "ElementType": 16,
+    "ItemQuality": 2,
+    "assetPath": "Item_1311",
+    "Price": 9,
+    "AvaiNumber": 3
+  },
+  {
+    "id": 1312,
+    "name": "辣椒史莱姆",
+    "canuse": true,
+    "compositeMain": 1216,
+    "compositeList": [
+      1218
+    ],
+    "compriority": 14,
+    "isOrigin": false,
+    "placingType": [
+      32,
+      8192
+    ],
+    "placingIds": [
+      118
+    ],
+    "wgirds": 2,
+    "hgirds": 2,
+    "RoleType": 0,
+    "ItemType": 256,
+    "audioseplace": "animalsound",
+    "ElementType": 16,
+    "ItemQuality": 2,
+    "assetPath": "Item_1312",
+    "Price": 9,
+    "AvaiNumber": 3
+  },
+  {
+    "id": 1313,
+    "name": "暗影宝石",
+    "canuse": true,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [
+      128
+    ],
+    "placingIds": [],
+    "wgirds": 1,
+    "hgirds": 1,
+    "RoleType": 0,
+    "ItemType": 16,
+    "audioseplace": "gemsound",
+    "ElementType": 1,
+    "ItemQuality": 2,
+    "assetPath": "Attachment_1313",
+    "Price": 9,
+    "AvaiNumber": 4
+  },
+  {
+    "id": 1314,
+    "name": "长笛",
+    "canuse": true,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [
+      8192,
+      32768
+    ],
+    "placingIds": [
+      119
+    ],
+    "wgirds": 3,
+    "hgirds": 1,
+    "RoleType": 0,
+    "ItemType": 4,
+    "audioseplace": "accessorysound",
+    "ElementType": 0,
+    "ItemQuality": 2,
+    "assetPath": "Item_1314",
+    "Price": 8,
+    "AvaiNumber": 3
+  },
+  {
+    "id": 1315,
+    "name": "龙鳞皮甲",
+    "canuse": true,
+    "compositeMain": 1209,
+    "compositeList": [
+      1902
+    ],
+    "compriority": 15,
+    "isOrigin": false,
+    "placingType": [
+      32768
+    ],
+    "placingIds": [],
+    "wgirds": 2,
+    "hgirds": 3,
+    "RoleType": 1,
+    "ItemType": 2,
+    "audioseplace": "armorsound",
+    "ElementType": 0,
+    "ItemQuality": 2,
+    "assetPath": "Item_1315",
+    "Price": 8,
+    "AvaiNumber": 3
+  },
+  {
+    "id": 1316,
+    "name": "幸运招财猫",
+    "canuse": true,
+    "compositeMain": 1113,
+    "compositeList": [
+      1219,
+      1219
+    ],
+    "compriority": 16,
+    "isOrigin": false,
+    "placingType": [
+      8192
+    ],
+    "placingIds": [
+      120
+    ],
+    "wgirds": 2,
+    "hgirds": 1,
+    "RoleType": 3,
+    "ItemType": 4,
+    "audioseplace": "accessorysound",
+    "ElementType": 0,
+    "ItemQuality": 2,
+    "assetPath": "Item_1316",
+    "Price": 6,
+    "AvaiNumber": 3
+  },
+  {
+    "id": 1317,
+    "name": "魔法水晶",
+    "canuse": true,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [
+      8192,
+      131072
+    ],
+    "placingIds": [
+      121
+    ],
+    "wgirds": 1,
+    "hgirds": 1,
+    "RoleType": 0,
+    "ItemType": 4,
+    "audioseplace": "accessorysound",
+    "ElementType": 8,
+    "ItemQuality": 2,
+    "assetPath": "Item_1317",
+    "Price": 8,
+    "AvaiNumber": 4
+  },
+  {
+    "id": 1319,
+    "name": "精铁之刃",
+    "canuse": true,
+    "compositeMain": 1103,
+    "compositeList": [
+      1102,
+      1102
+    ],
+    "compriority": 17,
+    "isOrigin": false,
+    "placingType": [
+      512,
+      8192
+    ],
+    "placingIds": [
+      122
+    ],
+    "wgirds": 1,
+    "hgirds": 2,
+    "RoleType": 0,
+    "ItemType": 128,
+    "audioseplace": "weaponsound",
+    "ElementType": 0,
+    "ItemQuality": 2,
+    "assetPath": "Item_1319",
+    "Price": 8,
+    "AvaiNumber": 3
+  },
+  {
+    "id": 1320,
+    "name": "神龙珠",
+    "canuse": true,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [
+      8192,
+      256
+    ],
+    "placingIds": [],
+    "wgirds": 1,
+    "hgirds": 1,
+    "RoleType": 2,
+    "ItemType": 4,
+    "audioseplace": "accessorysound",
+    "ElementType": 2,
+    "ItemQuality": 2,
+    "assetPath": "Item_1320",
+    "Price": 9,
+    "AvaiNumber": 4
+  },
+  {
+    "id": 1321,
+    "name": "龙鳞护手",
+    "canuse": true,
+    "compositeMain": 1210,
+    "compositeList": [
+      1902
+    ],
+    "compriority": 18,
+    "isOrigin": false,
+    "placingType": [],
+    "placingIds": [
+      123
+    ],
+    "wgirds": 2,
+    "hgirds": 1,
+    "RoleType": 1,
+    "ItemType": 32,
+    "audioseplace": "armorsound",
+    "ElementType": 0,
+    "ItemQuality": 2,
+    "assetPath": "Item_1321",
+    "Price": 8,
+    "AvaiNumber": 3
+  },
+  {
+    "id": 1322,
+    "name": "狂野之爪",
+    "canuse": true,
+    "compositeMain": 1210,
+    "compositeList": [
+      1112
+    ],
+    "compriority": 19,
+    "isOrigin": false,
+    "placingType": [
+      512,
+      8192
+    ],
+    "placingIds": [],
+    "wgirds": 2,
+    "hgirds": 1,
+    "RoleType": 0,
+    "ItemType": 128,
+    "audioseplace": "weaponsound",
+    "ElementType": 0,
+    "ItemQuality": 2,
+    "assetPath": "Item_1322",
+    "Price": 9,
+    "AvaiNumber": 3
+  },
+  {
+    "id": 1323,
+    "name": "幸运手环",
+    "canuse": true,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [],
+    "placingIds": [
+      124
+    ],
+    "wgirds": 1,
+    "hgirds": 1,
+    "RoleType": 3,
+    "ItemType": 4,
+    "audioseplace": "accessorysound",
+    "ElementType": 16,
+    "ItemQuality": 2,
+    "assetPath": "Item_1323",
+    "Price": 8,
+    "AvaiNumber": 3
+  },
+  {
+    "id": 1324,
+    "name": "燃烧匕首",
+    "canuse": true,
+    "compositeMain": 1208,
+    "compositeList": [
+      1115,
+      1115
+    ],
+    "compriority": 20,
+    "isOrigin": false,
+    "placingType": [
+      512,
+      8192,
+      256
+    ],
+    "placingIds": [],
+    "wgirds": 1,
+    "hgirds": 2,
+    "RoleType": 2,
+    "ItemType": 128,
+    "audioseplace": "weaponsound",
+    "ElementType": 2,
+    "ItemQuality": 2,
+    "assetPath": "Item_1324",
+    "Price": 9,
+    "AvaiNumber": 4
+  },
+  {
+    "id": 1325,
+    "name": "龙鳞靴",
+    "canuse": true,
+    "compositeMain": 1302,
+    "compositeList": [
+      1902
+    ],
+    "compriority": 21,
+    "isOrigin": false,
+    "placingType": [
+      32768
+    ],
+    "placingIds": [],
+    "wgirds": 1,
+    "hgirds": 2,
+    "RoleType": 1,
+    "ItemType": 8192,
+    "audioseplace": "armorsound",
+    "ElementType": 0,
+    "ItemQuality": 2,
+    "assetPath": "Item_1325",
+    "Price": 7,
+    "AvaiNumber": 3
+  },
+  {
+    "id": 1326,
+    "name": "燃烧火炬",
+    "canuse": true,
+    "compositeMain": 1220,
+    "compositeList": [
+      1115
+    ],
+    "compriority": 22,
+    "isOrigin": false,
+    "placingType": [
+      512,
+      8192,
+      256
+    ],
+    "placingIds": [],
+    "wgirds": 1,
+    "hgirds": 2,
+    "RoleType": 2,
+    "ItemType": 128,
+    "audioseplace": "weaponsound",
+    "ElementType": 2,
+    "ItemQuality": 2,
+    "assetPath": "Item_1326",
+    "Price": 8,
+    "AvaiNumber": 4
+  },
+  {
+    "id": 1327,
+    "name": "水晶法杖",
+    "canuse": true,
+    "compositeMain": 1106,
+    "compositeList": [
+      1317
+    ],
+    "compriority": 23,
+    "isOrigin": false,
+    "placingType": [
+      512,
+      8192
+    ],
+    "placingIds": [],
+    "wgirds": 1,
+    "hgirds": 4,
+    "RoleType": 0,
+    "ItemType": 2048,
+    "audioseplace": "weaponsound",
+    "ElementType": 8,
+    "ItemQuality": 2,
+    "assetPath": "Item_1327",
+    "Price": 10,
+    "AvaiNumber": 3
+  },
+  {
+    "id": 1328,
+    "name": "强效治疗药水",
+    "canuse": true,
+    "compositeMain": 1213,
+    "compositeList": [
+      1110
+    ],
+    "compriority": 24,
+    "isOrigin": false,
+    "placingType": [
+      1024
+    ],
+    "placingIds": [
+      125
+    ],
+    "wgirds": 1,
+    "hgirds": 2,
+    "RoleType": 0,
+    "ItemType": 1024,
+    "audioseplace": "potionsound",
+    "ElementType": 0,
+    "ItemQuality": 2,
+    "assetPath": "Item_1328",
+    "Price": 7,
+    "AvaiNumber": 3
+  },
+  {
+    "id": 1329,
+    "name": "法力药水",
+    "canuse": true,
+    "compositeMain": 1213,
+    "compositeList": [
+      1214
+    ],
+    "compriority": 25,
+    "isOrigin": false,
+    "placingType": [
+      1024
+    ],
+    "placingIds": [
+      126
+    ],
+    "wgirds": 1,
+    "hgirds": 2,
+    "RoleType": 0,
+    "ItemType": 1024,
+    "audioseplace": "potionsound",
+    "ElementType": 8,
+    "ItemQuality": 2,
+    "assetPath": "Item_1329",
+    "Price": 7,
+    "AvaiNumber": 3
+  },
+  {
+    "id": 1381,
+    "name": "方形红宝石",
+    "canuse": true,
+    "compositeMain": 1281,
+    "compositeList": [
+      1281
+    ],
+    "compriority": 26,
+    "isOrigin": false,
+    "placingType": [],
+    "placingIds": [],
+    "wgirds": 1,
+    "hgirds": 1,
+    "RoleType": 0,
+    "ItemType": 16,
+    "audioseplace": "gemsound",
+    "ElementType": 0,
+    "ItemQuality": 2,
+    "assetPath": "Attachment_1381",
+    "Price": 8,
+    "AvaiNumber": 3
+  },
+  {
+    "id": 1382,
+    "name": "方形黄宝石",
+    "canuse": true,
+    "compositeMain": 1282,
+    "compositeList": [
+      1282
+    ],
+    "compriority": 27,
+    "isOrigin": false,
+    "placingType": [],
+    "placingIds": [],
+    "wgirds": 1,
+    "hgirds": 1,
+    "RoleType": 0,
+    "ItemType": 16,
+    "audioseplace": "gemsound",
+    "ElementType": 0,
+    "ItemQuality": 2,
+    "assetPath": "Attachment_1382",
+    "Price": 8,
+    "AvaiNumber": 3
+  },
+  {
+    "id": 1383,
+    "name": "方形蓝宝石",
+    "canuse": true,
+    "compositeMain": 1283,
+    "compositeList": [
+      1283
+    ],
+    "compriority": 28,
+    "isOrigin": false,
+    "placingType": [],
+    "placingIds": [],
+    "wgirds": 1,
+    "hgirds": 1,
+    "RoleType": 0,
+    "ItemType": 16,
+    "audioseplace": "gemsound",
+    "ElementType": 0,
+    "ItemQuality": 2,
+    "assetPath": "Attachment_1383",
+    "Price": 8,
+    "AvaiNumber": 3
+  },
+  {
+    "id": 1384,
+    "name": "方形紫宝石",
+    "canuse": true,
+    "compositeMain": 1284,
+    "compositeList": [
+      1284
+    ],
+    "compriority": 29,
+    "isOrigin": false,
+    "placingType": [],
+    "placingIds": [],
+    "wgirds": 1,
+    "hgirds": 1,
+    "RoleType": 0,
+    "ItemType": 16,
+    "audioseplace": "gemsound",
+    "ElementType": 0,
+    "ItemQuality": 2,
+    "assetPath": "Attachment_1384",
+    "Price": 8,
+    "AvaiNumber": 3
+  },
+  {
+    "id": 1401,
+    "name": "倚天剑",
+    "canuse": false,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [
+      512,
+      8192
+    ],
+    "placingIds": [],
+    "wgirds": 1,
+    "hgirds": 4,
+    "RoleType": 0,
+    "ItemType": 128,
+    "audioseplace": "weaponsound",
+    "ElementType": 0,
+    "ItemQuality": 3,
+    "assetPath": "Item_1401",
+    "Price": 15,
+    "AvaiNumber": 2
+  },
+  {
+    "id": 1402,
+    "name": "光明盾牌",
+    "canuse": false,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [],
+    "placingIds": [
+      128
+    ],
+    "wgirds": 2,
+    "hgirds": 3,
+    "RoleType": 0,
+    "ItemType": 4096,
+    "audioseplace": "armorsound",
+    "ElementType": 4,
+    "ItemQuality": 3,
+    "assetPath": "Item_1402",
+    "Price": 15,
+    "AvaiNumber": 2
+  },
+  {
+    "id": 1403,
+    "name": "光明板甲",
+    "canuse": false,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [
+      32768,
+      16
+    ],
+    "placingIds": [
+      129
+    ],
+    "wgirds": 2,
+    "hgirds": 3,
+    "RoleType": 0,
+    "ItemType": 2,
+    "audioseplace": "armorsound",
+    "ElementType": 4,
+    "ItemQuality": 3,
+    "assetPath": "Item_1403",
+    "Price": 16,
+    "AvaiNumber": 2
+  },
+  {
+    "id": 1404,
+    "name": "白狼幼崽",
+    "canuse": false,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [
+      32,
+      32768
+    ],
+    "placingIds": [
+      130
+    ],
+    "wgirds": 1,
+    "hgirds": 2,
+    "RoleType": 1,
+    "ItemType": 256,
+    "audioseplace": "animalsound",
+    "ElementType": 0,
+    "ItemQuality": 3,
+    "assetPath": "Item_1404",
+    "Price": 12,
+    "AvaiNumber": 2
+  },
+  {
+    "id": 1405,
+    "name": "黑狼幼崽",
+    "canuse": false,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [
+      32
+    ],
+    "placingIds": [
+      131
+    ],
+    "wgirds": 2,
+    "hgirds": 1,
+    "RoleType": 1,
+    "ItemType": 384,
+    "audioseplace": "animalsound",
+    "ElementType": 0,
+    "ItemQuality": 3,
+    "assetPath": "Item_1405",
+    "Price": 12,
+    "AvaiNumber": 2
+  },
+  {
+    "id": 1406,
+    "name": "灰狼幼崽",
+    "canuse": false,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [
+      32
+    ],
+    "placingIds": [
+      132
+    ],
+    "wgirds": 2,
+    "hgirds": 1,
+    "RoleType": 1,
+    "ItemType": 256,
+    "audioseplace": "animalsound",
+    "ElementType": 0,
+    "ItemQuality": 3,
+    "assetPath": "Item_1406",
+    "Price": 12,
+    "AvaiNumber": 2
+  },
+  {
+    "id": 1407,
+    "name": "钢铁史莱姆",
+    "canuse": true,
+    "compositeMain": 1216,
+    "compositeList": [
+      1319
+    ],
+    "compriority": 30,
+    "isOrigin": false,
+    "placingType": [
+      32,
+      8192
+    ],
+    "placingIds": [
+      133,
+      134
+    ],
+    "wgirds": 2,
+    "hgirds": 2,
+    "RoleType": 0,
+    "ItemType": 256,
+    "audioseplace": "animalsound",
+    "ElementType": 0,
+    "ItemQuality": 3,
+    "assetPath": "Item_1407",
+    "Price": 12,
+    "AvaiNumber": 2
+  },
+  {
+    "id": 1408,
+    "name": "鲜血史莱姆",
+    "canuse": false,
+    "compositeMain": 1216,
+    "compositeList": [
+      1423
+    ],
+    "compriority": 31,
+    "isOrigin": false,
+    "placingType": [
+      32,
+      8192,
+      65536
+    ],
+    "placingIds": [
+      135
+    ],
+    "wgirds": 2,
+    "hgirds": 2,
+    "RoleType": 0,
+    "ItemType": 256,
+    "audioseplace": "animalsound",
+    "ElementType": 32,
+    "ItemQuality": 3,
+    "assetPath": "Item_1408",
+    "Price": 13,
+    "AvaiNumber": 2
+  },
+  {
+    "id": 1409,
+    "name": "勇气药水",
+    "canuse": false,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [
+      1024
+    ],
+    "placingIds": [
+      136
+    ],
+    "wgirds": 1,
+    "hgirds": 2,
+    "RoleType": 0,
+    "ItemType": 1024,
+    "audioseplace": "potionsound",
+    "ElementType": 0,
+    "ItemQuality": 3,
+    "assetPath": "Item_1409",
+    "Price": 9,
+    "AvaiNumber": 3
+  },
+  {
+    "id": 1410,
+    "name": "强效勇气药水",
+    "canuse": false,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": false,
+    "placingType": [
+      1024
+    ],
+    "placingIds": [
+      137
+    ],
+    "wgirds": 1,
+    "hgirds": 2,
+    "RoleType": 0,
+    "ItemType": 1024,
+    "audioseplace": "potionsound",
+    "ElementType": 0,
+    "ItemQuality": 3,
+    "assetPath": "Item_1410",
+    "Price": 12,
+    "AvaiNumber": 2
+  },
+  {
+    "id": 1411,
+    "name": "强效法力药水",
+    "canuse": false,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": false,
+    "placingType": [
+      1024
+    ],
+    "placingIds": [
+      138
+    ],
+    "wgirds": 1,
+    "hgirds": 2,
+    "RoleType": 0,
+    "ItemType": 1024,
+    "audioseplace": "potionsound",
+    "ElementType": 0,
+    "ItemQuality": 3,
+    "assetPath": "Item_1411",
+    "Price": 12,
+    "AvaiNumber": 2
+  },
+  {
+    "id": 1412,
+    "name": "吸血药水",
+    "canuse": false,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": false,
+    "placingType": [
+      1024
+    ],
+    "placingIds": [
+      139
+    ],
+    "wgirds": 1,
+    "hgirds": 2,
+    "RoleType": 0,
+    "ItemType": 1024,
+    "audioseplace": "potionsound",
+    "ElementType": 32,
+    "ItemQuality": 3,
+    "assetPath": "Item_1412",
+    "Price": 15,
+    "AvaiNumber": 2
+  },
+  {
+    "id": 1413,
+    "name": "榴莲",
+    "canuse": false,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [
+      4096,
+      8192
+    ],
+    "placingIds": [
+      140
+    ],
+    "wgirds": 1,
+    "hgirds": 3,
+    "RoleType": 0,
+    "ItemType": 8,
+    "audioseplace": "fruitsound",
+    "ElementType": 16,
+    "ItemQuality": 3,
+    "assetPath": "Item_1413",
+    "Price": 9,
+    "AvaiNumber": 3
+  },
+  {
+    "id": 1414,
+    "name": "牛角弓",
+    "canuse": true,
+    "compositeMain": 1205,
+    "compositeList": [
+      1112,
+      1112
+    ],
+    "compriority": 32,
+    "isOrigin": false,
+    "placingType": [
+      512,
+      8192
+    ],
+    "placingIds": [
+      141
+    ],
+    "wgirds": 3,
+    "hgirds": 3,
+    "RoleType": 3,
+    "ItemType": 2048,
+    "audioseplace": "weaponsound",
+    "ElementType": 16,
+    "ItemQuality": 3,
+    "assetPath": "Item_1414",
+    "Price": 12,
+    "AvaiNumber": 3
+  },
+  {
+    "id": 1415,
+    "name": "幸运弓",
+    "canuse": true,
+    "compositeMain": 1308,
+    "compositeList": [
+      1219,
+      1219
+    ],
+    "compriority": 33,
+    "isOrigin": false,
+    "placingType": [
+      512,
+      8192
+    ],
+    "placingIds": [
+      142
+    ],
+    "wgirds": 3,
+    "hgirds": 3,
+    "RoleType": 3,
+    "ItemType": 2048,
+    "audioseplace": "weaponsound",
+    "ElementType": 16,
+    "ItemQuality": 3,
+    "assetPath": "Item_1415",
+    "Price": 15,
+    "AvaiNumber": 3
+  },
+  {
+    "id": 1416,
+    "name": "红宝石龙蛋",
+    "canuse": false,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [
+      32,
+      256
+    ],
+    "placingIds": [],
+    "wgirds": 2,
+    "hgirds": 2,
+    "RoleType": 2,
+    "ItemType": 256,
+    "audioseplace": "accessorysound",
+    "ElementType": 2,
+    "ItemQuality": 3,
+    "assetPath": "Item_1416",
+    "Price": 10,
+    "AvaiNumber": 3
+  },
+  {
+    "id": 1417,
+    "name": "蓝宝石龙蛋",
+    "canuse": false,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [
+      32
+    ],
+    "placingIds": [],
+    "wgirds": 2,
+    "hgirds": 2,
+    "RoleType": 0,
+    "ItemType": 256,
+    "audioseplace": "accessorysound",
+    "ElementType": 0,
+    "ItemQuality": 3,
+    "assetPath": "Item_1417",
+    "Price": 10,
+    "AvaiNumber": 3
+  },
+  {
+    "id": 1418,
+    "name": "紫水晶龙蛋",
+    "canuse": false,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [
+      32
+    ],
+    "placingIds": [],
+    "wgirds": 2,
+    "hgirds": 2,
+    "RoleType": 0,
+    "ItemType": 256,
+    "audioseplace": "accessorysound",
+    "ElementType": 0,
+    "ItemQuality": 3,
+    "assetPath": "Item_1418",
+    "Price": 10,
+    "AvaiNumber": 3
+  },
+  {
+    "id": 1419,
+    "name": "钢铁头盔",
+    "canuse": true,
+    "compositeMain": 1310,
+    "compositeList": [
+      1307
+    ],
+    "compriority": 34,
+    "isOrigin": false,
+    "placingType": [
+      32768
+    ],
+    "placingIds": [],
+    "wgirds": 1,
+    "hgirds": 2,
+    "RoleType": 0,
+    "ItemType": 64,
+    "audioseplace": "armorsound",
+    "ElementType": 0,
+    "ItemQuality": 3,
+    "assetPath": "Item_1419",
+    "Price": 11,
+    "AvaiNumber": 3
+  },
+  {
+    "id": 1420,
+    "name": "钢铁手套",
+    "canuse": true,
+    "compositeMain": 1210,
+    "compositeList": [
+      1307
+    ],
+    "compriority": 35,
+    "isOrigin": false,
+    "placingType": [
+      32768
+    ],
+    "placingIds": [
+      143
+    ],
+    "wgirds": 2,
+    "hgirds": 1,
+    "RoleType": 0,
+    "ItemType": 32,
+    "audioseplace": "armorsound",
+    "ElementType": 0,
+    "ItemQuality": 3,
+    "assetPath": "Item_1420",
+    "Price": 10,
+    "AvaiNumber": 3
+  },
+  {
+    "id": 1421,
+    "name": "瘟疫锅铲",
+    "canuse": true,
+    "compositeMain": 1105,
+    "compositeList": [
+      1313
+    ],
+    "compriority": 36,
+    "isOrigin": false,
+    "placingType": [
+      512,
+      8192
+    ],
+    "placingIds": [
+      144
+    ],
+    "wgirds": 3,
+    "hgirds": 1,
+    "RoleType": 0,
+    "ItemType": 128,
+    "audioseplace": "weaponsound",
+    "ElementType": 1,
+    "ItemQuality": 3,
+    "assetPath": "Item_1421",
+    "Price": 13,
+    "AvaiNumber": 3
+  },
+  {
+    "id": 1422,
+    "name": "利刃手环",
+    "canuse": false,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [],
+    "placingIds": [],
+    "wgirds": 1,
+    "hgirds": 1,
+    "RoleType": 1,
+    "ItemType": 4,
+    "audioseplace": "accessorysound",
+    "ElementType": 0,
+    "ItemQuality": 3,
+    "assetPath": "Item_1422",
+    "Price": 12,
+    "AvaiNumber": 3
+  },
+  {
+    "id": 1423,
+    "name": "鲜血护符",
+    "canuse": false,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [
+      65536
+    ],
+    "placingIds": [],
+    "wgirds": 1,
+    "hgirds": 1,
+    "RoleType": 0,
+    "ItemType": 4,
+    "audioseplace": "accessorysound",
+    "ElementType": 32,
+    "ItemQuality": 3,
+    "assetPath": "Item_1423",
+    "Price": 11,
+    "AvaiNumber": 3
+  },
+  {
+    "id": 1424,
+    "name": "咕咕鸟",
+    "canuse": false,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [
+      32
+    ],
+    "placingIds": [
+      145
+    ],
+    "wgirds": 2,
+    "hgirds": 2,
+    "RoleType": 0,
+    "ItemType": 256,
+    "audioseplace": "animalsound",
+    "ElementType": 16,
+    "ItemQuality": 3,
+    "assetPath": "Item_1424",
+    "Price": 15,
+    "AvaiNumber": 2
+  },
+  {
+    "id": 1425,
+    "name": "鲜血护甲",
+    "canuse": false,
+    "compositeMain": 1209,
+    "compositeList": [
+      1423
+    ],
+    "compriority": 37,
+    "isOrigin": false,
+    "placingType": [
+      32768
+    ],
+    "placingIds": [],
+    "wgirds": 2,
+    "hgirds": 3,
+    "RoleType": 0,
+    "ItemType": 2,
+    "audioseplace": "armorsound",
+    "ElementType": 32,
+    "ItemQuality": 3,
+    "assetPath": "Item_1425",
+    "Price": 12,
+    "AvaiNumber": 2
+  },
+  {
+    "id": 1426,
+    "name": "火焰之鞭",
+    "canuse": true,
+    "compositeMain": 1301,
+    "compositeList": [
+      1115,
+      1115
+    ],
+    "compriority": 38,
+    "isOrigin": false,
+    "placingType": [
+      512,
+      8192,
+      256
+    ],
+    "placingIds": [],
+    "wgirds": 3,
+    "hgirds": 3,
+    "RoleType": 2,
+    "ItemType": 128,
+    "audioseplace": "weaponsound",
+    "ElementType": 2,
+    "ItemQuality": 3,
+    "assetPath": "Item_1426",
+    "Price": 15,
+    "AvaiNumber": 2
+  },
+  {
+    "id": 1427,
+    "name": "凤凰",
+    "canuse": false,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [
+      512,
+      8192,
+      32,
+      256
+    ],
+    "placingIds": [],
+    "wgirds": 3,
+    "hgirds": 3,
+    "RoleType": 2,
+    "ItemType": 2304,
+    "audioseplace": "animalsound",
+    "ElementType": 2,
+    "ItemQuality": 3,
+    "assetPath": "Item_1427",
+    "Price": 15,
+    "AvaiNumber": 2
+  },
+  {
+    "id": 1428,
+    "name": "吸血匕首",
+    "canuse": false,
+    "compositeMain": 1208,
+    "compositeList": [
+      1423
+    ],
+    "compriority": 39,
+    "isOrigin": false,
+    "placingType": [
+      512,
+      8192,
+      65536
+    ],
+    "placingIds": [
+      146
+    ],
+    "wgirds": 1,
+    "hgirds": 2,
+    "RoleType": 0,
+    "ItemType": 128,
+    "audioseplace": "weaponsound",
+    "ElementType": 32,
+    "ItemQuality": 3,
+    "assetPath": "Item_1428",
+    "Price": 13,
+    "AvaiNumber": 2
+  },
+  {
+    "id": 1429,
+    "name": "吸蓝刀",
+    "canuse": true,
+    "compositeMain": 1303,
+    "compositeList": [
+      1317
+    ],
+    "compriority": 40,
+    "isOrigin": false,
+    "placingType": [
+      512,
+      8192
+    ],
+    "placingIds": [],
+    "wgirds": 1,
+    "hgirds": 3,
+    "RoleType": 0,
+    "ItemType": 128,
+    "audioseplace": "weaponsound",
+    "ElementType": 40,
+    "ItemQuality": 3,
+    "assetPath": "Item_1429",
+    "Price": 16,
+    "AvaiNumber": 2
+  },
+  {
+    "id": 1430,
+    "name": "钢铁长剑",
+    "canuse": true,
+    "compositeMain": 1319,
+    "compositeList": [
+      1102,
+      1102
+    ],
+    "compriority": 41,
+    "isOrigin": false,
+    "placingType": [
+      512,
+      8192
+    ],
+    "placingIds": [
+      147
+    ],
+    "wgirds": 1,
+    "hgirds": 3,
+    "RoleType": 0,
+    "ItemType": 128,
+    "audioseplace": "weaponsound",
+    "ElementType": 0,
+    "ItemQuality": 3,
+    "assetPath": "Item_1430",
+    "Price": 13,
+    "AvaiNumber": 2
+  },
+  {
+    "id": 1431,
+    "name": "凤凰之刃",
+    "canuse": true,
+    "compositeMain": 1319,
+    "compositeList": [
+      1210,
+      1210
+    ],
+    "compriority": 42,
+    "isOrigin": false,
+    "placingType": [
+      512,
+      8192
+    ],
+    "placingIds": [
+      148
+    ],
+    "wgirds": 1,
+    "hgirds": 3,
+    "RoleType": 0,
+    "ItemType": 128,
+    "audioseplace": "weaponsound",
+    "ElementType": 0,
+    "ItemQuality": 3,
+    "assetPath": "Item_1431",
+    "Price": 13,
+    "AvaiNumber": 2
+  },
+  {
+    "id": 1432,
+    "name": "火焰长刀",
+    "canuse": true,
+    "compositeMain": 1309,
+    "compositeList": [
+      1102,
+      1102
+    ],
+    "compriority": 43,
+    "isOrigin": false,
+    "placingType": [
+      512,
+      8192,
+      256
+    ],
+    "placingIds": [
+      149
+    ],
+    "wgirds": 1,
+    "hgirds": 3,
+    "RoleType": 2,
+    "ItemType": 128,
+    "audioseplace": "weaponsound",
+    "ElementType": 2,
+    "ItemQuality": 3,
+    "assetPath": "Item_1432",
+    "Price": 15,
+    "AvaiNumber": 2
+  },
+  {
+    "id": 1433,
+    "name": "铁链鞭",
+    "canuse": false,
+    "compositeMain": 1301,
+    "compositeList": [
+      1902
+    ],
+    "compriority": 44,
+    "isOrigin": false,
+    "placingType": [
+      512,
+      8192
+    ],
+    "placingIds": [],
+    "wgirds": 3,
+    "hgirds": 3,
+    "RoleType": 1,
+    "ItemType": 128,
+    "audioseplace": "weaponsound",
+    "ElementType": 4,
+    "ItemQuality": 3,
+    "assetPath": "Item_1433",
+    "Price": 15,
+    "AvaiNumber": 2
+  },
+  {
+    "id": 1435,
+    "name": "火焰之杖",
+    "canuse": true,
+    "compositeMain": 1327,
+    "compositeList": [
+      1320
+    ],
+    "compriority": 45,
+    "isOrigin": false,
+    "placingType": [
+      512,
+      8192,
+      256
+    ],
+    "placingIds": [],
+    "wgirds": 1,
+    "hgirds": 4,
+    "RoleType": 2,
+    "ItemType": 2048,
+    "audioseplace": "weaponsound",
+    "ElementType": 10,
+    "ItemQuality": 3,
+    "assetPath": "Item_1435",
+    "Price": 15,
+    "AvaiNumber": 2
+  },
+  {
+    "id": 1436,
+    "name": "神圣锅铲",
+    "canuse": false,
+    "compositeMain": 1105,
+    "compositeList": [
+      1409
+    ],
+    "compriority": 46,
+    "isOrigin": false,
+    "placingType": [
+      512,
+      8192
+    ],
+    "placingIds": [
+      150
+    ],
+    "wgirds": 3,
+    "hgirds": 2,
+    "RoleType": 0,
+    "ItemType": 128,
+    "audioseplace": "weaponsound",
+    "ElementType": 4,
+    "ItemQuality": 3,
+    "assetPath": "Item_1436",
+    "Price": 15,
+    "AvaiNumber": 2
+  },
+  {
+    "id": 1437,
+    "name": "魔法火把",
+    "canuse": true,
+    "compositeMain": 1326,
+    "compositeList": [
+      1317
+    ],
+    "compriority": 47,
+    "isOrigin": false,
+    "placingType": [
+      512,
+      8192,
+      256
+    ],
+    "placingIds": [
+      151
+    ],
+    "wgirds": 1,
+    "hgirds": 2,
+    "RoleType": 2,
+    "ItemType": 128,
+    "audioseplace": "weaponsound",
+    "ElementType": 10,
+    "ItemQuality": 3,
+    "assetPath": "Item_1437",
+    "Price": 13,
+    "AvaiNumber": 2
+  },
+  {
+    "id": 1438,
+    "name": "强效硬化药水",
+    "canuse": true,
+    "compositeMain": 1307,
+    "compositeList": [
+      1101,
+      1101
+    ],
+    "compriority": 48,
+    "isOrigin": false,
+    "placingType": [
+      1024
+    ],
+    "placingIds": [
+      152
+    ],
+    "wgirds": 1,
+    "hgirds": 2,
+    "RoleType": 0,
+    "ItemType": 1024,
+    "audioseplace": "potionsound",
+    "ElementType": 0,
+    "ItemQuality": 3,
+    "assetPath": "Item_1438",
+    "Price": 12,
+    "AvaiNumber": 2
+  },
+  {
+    "id": 1439,
+    "name": "石肤护甲",
+    "canuse": true,
+    "compositeMain": 1209,
+    "compositeList": [
+      1307
+    ],
+    "compriority": 49,
+    "isOrigin": false,
+    "placingType": [
+      32768
+    ],
+    "placingIds": [],
+    "wgirds": 2,
+    "hgirds": 3,
+    "RoleType": 0,
+    "ItemType": 2,
+    "audioseplace": "armorsound",
+    "ElementType": 0,
+    "ItemQuality": 3,
+    "assetPath": "Item_1439",
+    "Price": 12,
+    "AvaiNumber": 2
+  },
+  {
+    "id": 1440,
+    "name": "奶酪",
+    "canuse": false,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [
+      4096,
+      8192
+    ],
+    "placingIds": [
+      153
+    ],
+    "wgirds": 2,
+    "hgirds": 1,
+    "RoleType": 1,
+    "ItemType": 8,
+    "audioseplace": "fruitsound",
+    "ElementType": 16,
+    "ItemQuality": 3,
+    "assetPath": "Item_1440",
+    "Price": 10,
+    "AvaiNumber": 3
+  },
+  {
+    "id": 1441,
+    "name": "暗影头盔",
+    "canuse": false,
+    "compositeMain": 1310,
+    "compositeList": [
+      1313
+    ],
+    "compriority": 50,
+    "isOrigin": false,
+    "placingType": [],
+    "placingIds": [],
+    "wgirds": 1,
+    "hgirds": 2,
+    "RoleType": 0,
+    "ItemType": 64,
+    "audioseplace": "armorsound",
+    "ElementType": 1,
+    "ItemQuality": 3,
+    "assetPath": "Attachment_1441",
+    "Price": 15,
+    "AvaiNumber": 2
+  },
+  {
+    "id": 1481,
+    "name": "无暇红宝石",
+    "canuse": true,
+    "compositeMain": 1381,
+    "compositeList": [
+      1381
+    ],
+    "compriority": 51,
+    "isOrigin": false,
+    "placingType": [],
+    "placingIds": [],
+    "wgirds": 1,
+    "hgirds": 1,
+    "RoleType": 0,
+    "ItemType": 16,
+    "audioseplace": "gemsound",
+    "ElementType": 0,
+    "ItemQuality": 3,
+    "assetPath": "Attachment_1481",
+    "Price": 12,
+    "AvaiNumber": 3
+  },
+  {
+    "id": 1482,
+    "name": "无暇黄宝石",
+    "canuse": true,
+    "compositeMain": 1382,
+    "compositeList": [
+      1382
+    ],
+    "compriority": 52,
+    "isOrigin": false,
+    "placingType": [],
+    "placingIds": [],
+    "wgirds": 1,
+    "hgirds": 1,
+    "RoleType": 0,
+    "ItemType": 16,
+    "audioseplace": "gemsound",
+    "ElementType": 0,
+    "ItemQuality": 3,
+    "assetPath": "Attachment_1482",
+    "Price": 12,
+    "AvaiNumber": 3
+  },
+  {
+    "id": 1483,
+    "name": "无暇蓝宝石",
+    "canuse": true,
+    "compositeMain": 1383,
+    "compositeList": [
+      1383
+    ],
+    "compriority": 53,
+    "isOrigin": false,
+    "placingType": [],
+    "placingIds": [],
+    "wgirds": 1,
+    "hgirds": 1,
+    "RoleType": 0,
+    "ItemType": 16,
+    "audioseplace": "gemsound",
+    "ElementType": 0,
+    "ItemQuality": 3,
+    "assetPath": "Attachment_1483",
+    "Price": 12,
+    "AvaiNumber": 3
+  },
+  {
+    "id": 1484,
+    "name": "无暇紫宝石",
+    "canuse": true,
+    "compositeMain": 1384,
+    "compositeList": [
+      1384
+    ],
+    "compriority": 54,
+    "isOrigin": false,
+    "placingType": [],
+    "placingIds": [],
+    "wgirds": 1,
+    "hgirds": 1,
+    "RoleType": 0,
+    "ItemType": 16,
+    "audioseplace": "gemsound",
+    "ElementType": 0,
+    "ItemQuality": 3,
+    "assetPath": "Attachment_1484",
+    "Price": 12,
+    "AvaiNumber": 3
+  },
+  {
+    "id": 1501,
+    "name": "圣剑",
+    "canuse": false,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [
+      512,
+      8192
+    ],
+    "placingIds": [],
+    "wgirds": 1,
+    "hgirds": 4,
+    "RoleType": 0,
+    "ItemType": 128,
+    "audioseplace": "weaponsound",
+    "ElementType": 4,
+    "ItemQuality": 4,
+    "assetPath": "Item_1501",
+    "Price": 18,
+    "AvaiNumber": 2
+  },
+  {
+    "id": 1502,
+    "name": "刺剑",
+    "canuse": false,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [
+      512,
+      8192
+    ],
+    "placingIds": [],
+    "wgirds": 1,
+    "hgirds": 4,
+    "RoleType": 0,
+    "ItemType": 128,
+    "audioseplace": "weaponsound",
+    "ElementType": 0,
+    "ItemQuality": 4,
+    "assetPath": "Item_1502",
+    "Price": 18,
+    "AvaiNumber": 2
+  },
+  {
+    "id": 1503,
+    "name": "菜刀",
+    "canuse": false,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [
+      512,
+      8192
+    ],
+    "placingIds": [],
+    "wgirds": 2,
+    "hgirds": 4,
+    "RoleType": 1,
+    "ItemType": 128,
+    "audioseplace": "weaponsound",
+    "ElementType": 0,
+    "ItemQuality": 4,
+    "assetPath": "Item_1503",
+    "Price": 20,
+    "AvaiNumber": 2
+  },
+  {
+    "id": 1504,
+    "name": "十字水果刀",
+    "canuse": false,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": false,
+    "placingType": [
+      512,
+      8192
+    ],
+    "placingIds": [
+      154,
+      155
+    ],
+    "wgirds": 3,
+    "hgirds": 3,
+    "RoleType": 0,
+    "ItemType": 128,
+    "audioseplace": "weaponsound",
+    "ElementType": 0,
+    "ItemQuality": 4,
+    "assetPath": "Item_1504",
+    "Price": 38,
+    "AvaiNumber": 2
+  },
+  {
+    "id": 1505,
+    "name": "终极彩虹史莱姆",
+    "canuse": false,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": false,
+    "placingType": [
+      32,
+      8192
+    ],
+    "placingIds": [
+      156
+    ],
+    "wgirds": 2,
+    "hgirds": 2,
+    "RoleType": 0,
+    "ItemType": 256,
+    "audioseplace": "animalsound",
+    "ElementType": 52,
+    "ItemQuality": 4,
+    "assetPath": "Item_1505",
+    "Price": 50,
+    "AvaiNumber": 2
+  },
+  {
+    "id": 1506,
+    "name": "神圣史莱姆",
+    "canuse": false,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": false,
+    "placingType": [
+      32,
+      8192
+    ],
+    "placingIds": [
+      157
+    ],
+    "wgirds": 2,
+    "hgirds": 2,
+    "RoleType": 0,
+    "ItemType": 256,
+    "audioseplace": "animalsound",
+    "ElementType": 4,
+    "ItemQuality": 4,
+    "assetPath": "Item_1506",
+    "Price": 21,
+    "AvaiNumber": 2
+  },
+  {
+    "id": 1507,
+    "name": "黑色巨龙",
+    "canuse": false,
+    "compositeMain": 1508,
+    "compositeList": [
+      1313
+    ],
+    "compriority": 55,
+    "isOrigin": false,
+    "placingType": [
+      32,
+      256
+    ],
+    "placingIds": [],
+    "wgirds": 2,
+    "hgirds": 3,
+    "RoleType": 2,
+    "ItemType": 2304,
+    "audioseplace": "animalsound",
+    "ElementType": 2,
+    "ItemQuality": 4,
+    "assetPath": "Item_1507",
+    "Price": 18,
+    "AvaiNumber": 2
+  },
+  {
+    "id": 1508,
+    "name": "火焰幼龙",
+    "canuse": false,
+    "compositeMain": 1416,
+    "compositeList": [
+      1416
+    ],
+    "compriority": 56,
+    "isOrigin": true,
+    "placingType": [
+      32,
+      256
+    ],
+    "placingIds": [],
+    "wgirds": 2,
+    "hgirds": 2,
+    "RoleType": 2,
+    "ItemType": 2304,
+    "audioseplace": "animalsound",
+    "ElementType": 2,
+    "ItemQuality": 4,
+    "assetPath": "Item_1508",
+    "Price": 15,
+    "AvaiNumber": 2
+  },
+  {
+    "id": 1509,
+    "name": "紫色幼龙",
+    "canuse": false,
+    "compositeMain": 1417,
+    "compositeList": [
+      1417
+    ],
+    "compriority": 57,
+    "isOrigin": true,
+    "placingType": [
+      32
+    ],
+    "placingIds": [],
+    "wgirds": 2,
+    "hgirds": 2,
+    "RoleType": 0,
+    "ItemType": 2304,
+    "audioseplace": "animalsound",
+    "ElementType": 0,
+    "ItemQuality": 4,
+    "assetPath": "Item_1509",
+    "Price": 15,
+    "AvaiNumber": 2
+  },
+  {
+    "id": 1510,
+    "name": "魔法幼龙",
+    "canuse": false,
+    "compositeMain": 1418,
+    "compositeList": [
+      1418
+    ],
+    "compriority": 58,
+    "isOrigin": true,
+    "placingType": [
+      32
+    ],
+    "placingIds": [],
+    "wgirds": 2,
+    "hgirds": 2,
+    "RoleType": 0,
+    "ItemType": 2304,
+    "audioseplace": "animalsound",
+    "ElementType": 0,
+    "ItemQuality": 4,
+    "assetPath": "Item_1510",
+    "Price": 15,
+    "AvaiNumber": 2
+  },
+  {
+    "id": 1511,
+    "name": "艾露恩之赐",
+    "canuse": false,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [],
+    "placingIds": [],
+    "wgirds": 2,
+    "hgirds": 2,
+    "RoleType": 0,
+    "ItemType": 4,
+    "audioseplace": "accessorysound",
+    "ElementType": 4,
+    "ItemQuality": 4,
+    "assetPath": "Item_1511",
+    "Price": 18,
+    "AvaiNumber": 2
+  },
+  {
+    "id": 1512,
+    "name": "暗影艾露恩之赐",
+    "canuse": false,
+    "compositeMain": 1511,
+    "compositeList": [
+      1541
+    ],
+    "compriority": 59,
+    "isOrigin": false,
+    "placingType": [],
+    "placingIds": [
+      158
+    ],
+    "wgirds": 2,
+    "hgirds": 2,
+    "RoleType": 0,
+    "ItemType": 4,
+    "audioseplace": "accessorysound",
+    "ElementType": 1,
+    "ItemQuality": 4,
+    "assetPath": "Item_1512",
+    "Price": 22,
+    "AvaiNumber": 2
+  },
+  {
+    "id": 1513,
+    "name": "神圣灰狼幼崽",
+    "canuse": false,
+    "compositeMain": 1404,
+    "compositeList": [
+      1902
+    ],
+    "compriority": 60,
+    "isOrigin": false,
+    "placingType": [
+      32
+    ],
+    "placingIds": [
+      159
+    ],
+    "wgirds": 2,
+    "hgirds": 1,
+    "RoleType": 1,
+    "ItemType": 256,
+    "audioseplace": "animalsound",
+    "ElementType": 0,
+    "ItemQuality": 4,
+    "assetPath": "Item_1513",
+    "Price": 18,
+    "AvaiNumber": 2
+  },
+  {
+    "id": 1514,
+    "name": "毁灭黑狼幼崽",
+    "canuse": false,
+    "compositeMain": 1405,
+    "compositeList": [
+      1902
+    ],
+    "compriority": 61,
+    "isOrigin": false,
+    "placingType": [
+      32,
+      512,
+      8192
+    ],
+    "placingIds": [
+      160
+    ],
+    "wgirds": 2,
+    "hgirds": 1,
+    "RoleType": 1,
+    "ItemType": 384,
+    "audioseplace": "animalsound",
+    "ElementType": 0,
+    "ItemQuality": 4,
+    "assetPath": "Item_1514",
+    "Price": 18,
+    "AvaiNumber": 2
+  },
+  {
+    "id": 1515,
+    "name": "睿智白狼幼崽",
+    "canuse": false,
+    "compositeMain": 1406,
+    "compositeList": [
+      1902
+    ],
+    "compriority": 62,
+    "isOrigin": false,
+    "placingType": [
+      32
+    ],
+    "placingIds": [
+      161
+    ],
+    "wgirds": 1,
+    "hgirds": 2,
+    "RoleType": 1,
+    "ItemType": 256,
+    "audioseplace": "animalsound",
+    "ElementType": 0,
+    "ItemQuality": 4,
+    "assetPath": "Item_1515",
+    "Price": 18,
+    "AvaiNumber": 2
+  },
+  {
+    "id": 1516,
+    "name": "李奥瑞克的王冠",
+    "canuse": false,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [],
+    "placingIds": [],
+    "wgirds": 2,
+    "hgirds": 1,
+    "RoleType": 0,
+    "ItemType": 64,
+    "audioseplace": "armorsound",
+    "ElementType": 4,
+    "ItemQuality": 4,
+    "assetPath": "Item_1516",
+    "Price": 20,
+    "AvaiNumber": 2
+  },
+  {
+    "id": 1517,
+    "name": "彩虹独角兽",
+    "canuse": false,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [
+      32
+    ],
+    "placingIds": [
+      162
+    ],
+    "wgirds": 2,
+    "hgirds": 2,
+    "RoleType": 0,
+    "ItemType": 256,
+    "audioseplace": "animalsound",
+    "ElementType": 16,
+    "ItemQuality": 4,
+    "assetPath": "Item_1517",
+    "Price": 21,
+    "AvaiNumber": 2
+  },
+  {
+    "id": 1518,
+    "name": "暗影护甲",
+    "canuse": false,
+    "compositeMain": 1403,
+    "compositeList": [
+      1313
+    ],
+    "compriority": 63,
+    "isOrigin": false,
+    "placingType": [
+      32768
+    ],
+    "placingIds": [
+      163
+    ],
+    "wgirds": 2,
+    "hgirds": 3,
+    "RoleType": 0,
+    "ItemType": 2,
+    "audioseplace": "armorsound",
+    "ElementType": 1,
+    "ItemQuality": 4,
+    "assetPath": "Item_1518",
+    "Price": 22,
+    "AvaiNumber": 2
+  },
+  {
+    "id": 1519,
+    "name": "艾露恩外衣",
+    "canuse": false,
+    "compositeMain": 1403,
+    "compositeList": [
+      1317
+    ],
+    "compriority": 64,
+    "isOrigin": false,
+    "placingType": [
+      32768,
+      131072
+    ],
+    "placingIds": [
+      164
+    ],
+    "wgirds": 2,
+    "hgirds": 3,
+    "RoleType": 0,
+    "ItemType": 2,
+    "audioseplace": "armorsound",
+    "ElementType": 12,
+    "ItemQuality": 4,
+    "assetPath": "Item_1519",
+    "Price": 21,
+    "AvaiNumber": 2
+  },
+  {
+    "id": 1520,
+    "name": "艾露恩之盾",
+    "canuse": false,
+    "compositeMain": 1402,
+    "compositeList": [
+      1317
+    ],
+    "compriority": 65,
+    "isOrigin": false,
+    "placingType": [
+      131072
+    ],
+    "placingIds": [
+      165
+    ],
+    "wgirds": 2,
+    "hgirds": 3,
+    "RoleType": 0,
+    "ItemType": 4096,
+    "audioseplace": "armorsound",
+    "ElementType": 12,
+    "ItemQuality": 4,
+    "assetPath": "Item_1520",
+    "Price": 21,
+    "AvaiNumber": 2
+  },
+  {
+    "id": 1521,
+    "name": "圣火护甲",
+    "canuse": false,
+    "compositeMain": 1403,
+    "compositeList": [
+      1115,
+      1115
+    ],
+    "compriority": 66,
+    "isOrigin": false,
+    "placingType": [
+      32768,
+      256
+    ],
+    "placingIds": [
+      166
+    ],
+    "wgirds": 2,
+    "hgirds": 3,
+    "RoleType": 2,
+    "ItemType": 2,
+    "audioseplace": "armorsound",
+    "ElementType": 6,
+    "ItemQuality": 4,
+    "assetPath": "Item_1521",
+    "Price": 20,
+    "AvaiNumber": 2
+  },
+  {
+    "id": 1522,
+    "name": "圣火盾牌",
+    "canuse": false,
+    "compositeMain": 1402,
+    "compositeList": [
+      1115,
+      1115
+    ],
+    "compriority": 67,
+    "isOrigin": false,
+    "placingType": [
+      256
+    ],
+    "placingIds": [
+      167
+    ],
+    "wgirds": 2,
+    "hgirds": 3,
+    "RoleType": 2,
+    "ItemType": 4096,
+    "audioseplace": "armorsound",
+    "ElementType": 6,
+    "ItemQuality": 4,
+    "assetPath": "Item_1522",
+    "Price": 20,
+    "AvaiNumber": 2
+  },
+  {
+    "id": 1523,
+    "name": "海王长戟",
+    "canuse": false,
+    "compositeMain": 1207,
+    "compositeList": [
+      1516
+    ],
+    "compriority": 68,
+    "isOrigin": false,
+    "placingType": [
+      512,
+      8192
+    ],
+    "placingIds": [
+      168
+    ],
+    "wgirds": 1,
+    "hgirds": 4,
+    "RoleType": 0,
+    "ItemType": 128,
+    "audioseplace": "weaponsound",
+    "ElementType": 4,
+    "ItemQuality": 4,
+    "assetPath": "Item_1523",
+    "Price": 24,
+    "AvaiNumber": 2
+  },
+  {
+    "id": 1524,
+    "name": "终焉号角",
+    "canuse": false,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [],
+    "placingIds": [
+      169
+    ],
+    "wgirds": 3,
+    "hgirds": 1,
+    "RoleType": 0,
+    "ItemType": 4,
+    "audioseplace": "accessorysound",
+    "ElementType": 0,
+    "ItemQuality": 4,
+    "assetPath": "Item_1524",
+    "Price": 19,
+    "AvaiNumber": 3
+  },
+  {
+    "id": 1525,
+    "name": "阿拉丁神灯",
+    "canuse": false,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [
+      131072
+    ],
+    "placingIds": [
+      170
+    ],
+    "wgirds": 2,
+    "hgirds": 1,
+    "RoleType": 0,
+    "ItemType": 4,
+    "audioseplace": "accessorysound",
+    "ElementType": 8,
+    "ItemQuality": 4,
+    "assetPath": "Item_1525",
+    "Price": 23,
+    "AvaiNumber": 2
+  },
+  {
+    "id": 1526,
+    "name": "鲜血护手",
+    "canuse": false,
+    "compositeMain": 1210,
+    "compositeList": [
+      1423
+    ],
+    "compriority": 69,
+    "isOrigin": false,
+    "placingType": [],
+    "placingIds": [
+      171
+    ],
+    "wgirds": 2,
+    "hgirds": 1,
+    "RoleType": 0,
+    "ItemType": 32,
+    "audioseplace": "armorsound",
+    "ElementType": 32,
+    "ItemQuality": 4,
+    "assetPath": "Item_1526",
+    "Price": 19,
+    "AvaiNumber": 3
+  },
+  {
+    "id": 1527,
+    "name": "血荆棘魔剑",
+    "canuse": true,
+    "compositeMain": 1303,
+    "compositeList": [
+      1301
+    ],
+    "compriority": 70,
+    "isOrigin": false,
+    "placingType": [
+      512,
+      8192
+    ],
+    "placingIds": [],
+    "wgirds": 1,
+    "hgirds": 3,
+    "RoleType": 0,
+    "ItemType": 128,
+    "audioseplace": "weaponsound",
+    "ElementType": 48,
+    "ItemQuality": 4,
+    "assetPath": "Item_1527",
+    "Price": 28,
+    "AvaiNumber": 2
+  },
+  {
+    "id": 1528,
+    "name": "暗影之吻",
+    "canuse": false,
+    "compositeMain": 1501,
+    "compositeList": [
+      1313
+    ],
+    "compriority": 71,
+    "isOrigin": false,
+    "placingType": [
+      512,
+      8192
+    ],
+    "placingIds": [],
+    "wgirds": 1,
+    "hgirds": 4,
+    "RoleType": 0,
+    "ItemType": 128,
+    "audioseplace": "weaponsound",
+    "ElementType": 1,
+    "ItemQuality": 4,
+    "assetPath": "Item_1528",
+    "Price": 24,
+    "AvaiNumber": 2
+  },
+  {
+    "id": 1529,
+    "name": "家传菜刀",
+    "canuse": false,
+    "compositeMain": 1503,
+    "compositeList": [
+      1902
+    ],
+    "compriority": 72,
+    "isOrigin": false,
+    "placingType": [
+      512,
+      8192
+    ],
+    "placingIds": [],
+    "wgirds": 2,
+    "hgirds": 5,
+    "RoleType": 1,
+    "ItemType": 128,
+    "audioseplace": "weaponsound",
+    "ElementType": 0,
+    "ItemQuality": 4,
+    "assetPath": "Item_1529",
+    "Price": 35,
+    "AvaiNumber": 2
+  },
+  {
+    "id": 1581,
+    "name": "完美红宝石",
+    "canuse": false,
+    "compositeMain": 1481,
+    "compositeList": [
+      1481
+    ],
+    "compriority": 73,
+    "isOrigin": false,
+    "placingType": [],
+    "placingIds": [],
+    "wgirds": 1,
+    "hgirds": 1,
+    "RoleType": 0,
+    "ItemType": 16,
+    "audioseplace": "gemsound",
+    "ElementType": 0,
+    "ItemQuality": 4,
+    "assetPath": "Item_1581",
+    "Price": 15,
+    "AvaiNumber": 3
+  },
+  {
+    "id": 1582,
+    "name": "完美黄宝石",
+    "canuse": false,
+    "compositeMain": 1482,
+    "compositeList": [
+      1482
+    ],
+    "compriority": 74,
+    "isOrigin": false,
+    "placingType": [],
+    "placingIds": [],
+    "wgirds": 1,
+    "hgirds": 1,
+    "RoleType": 0,
+    "ItemType": 16,
+    "audioseplace": "gemsound",
+    "ElementType": 0,
+    "ItemQuality": 4,
+    "assetPath": "Item_1582",
+    "Price": 15,
+    "AvaiNumber": 3
+  },
+  {
+    "id": 1583,
+    "name": "完美蓝宝石",
+    "canuse": false,
+    "compositeMain": 1483,
+    "compositeList": [
+      1483
+    ],
+    "compriority": 75,
+    "isOrigin": false,
+    "placingType": [],
+    "placingIds": [],
+    "wgirds": 1,
+    "hgirds": 1,
+    "RoleType": 0,
+    "ItemType": 16,
+    "audioseplace": "gemsound",
+    "ElementType": 0,
+    "ItemQuality": 4,
+    "assetPath": "Item_1583",
+    "Price": 15,
+    "AvaiNumber": 3
+  },
+  {
+    "id": 1584,
+    "name": "完美紫宝石",
+    "canuse": false,
+    "compositeMain": 1484,
+    "compositeList": [
+      1484
+    ],
+    "compriority": 76,
+    "isOrigin": false,
+    "placingType": [],
+    "placingIds": [],
+    "wgirds": 1,
+    "hgirds": 1,
+    "RoleType": 0,
+    "ItemType": 16,
+    "audioseplace": "gemsound",
+    "ElementType": 0,
+    "ItemQuality": 4,
+    "assetPath": "Item_1584",
+    "Price": 15,
+    "AvaiNumber": 3
+  },
+  {
+    "id": 1902,
+    "name": "铁锤",
+    "canuse": true,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [
+      512,
+      8192
+    ],
+    "placingIds": [],
+    "wgirds": 1,
+    "hgirds": 2,
+    "RoleType": 1,
+    "ItemType": 128,
+    "audioseplace": "weaponsound",
+    "ElementType": 0,
+    "ItemQuality": 5,
+    "assetPath": "Item_1902",
+    "Price": 12,
+    "AvaiNumber": 1
+  },
+  {
+    "id": 1903,
+    "name": "指虎",
+    "canuse": true,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [
+      512,
+      8192
+    ],
+    "placingIds": [
+      172
+    ],
+    "wgirds": 1,
+    "hgirds": 1,
+    "RoleType": 1,
+    "ItemType": 128,
+    "audioseplace": "weaponsound",
+    "ElementType": 0,
+    "ItemQuality": 5,
+    "assetPath": "Item_1903",
+    "Price": 25,
+    "AvaiNumber": 1
+  },
+  {
+    "id": 1904,
+    "name": "狼图腾",
+    "canuse": true,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [],
+    "placingIds": [
+      173,
+      174
+    ],
+    "wgirds": 1,
+    "hgirds": 1,
+    "RoleType": 1,
+    "ItemType": 4,
+    "audioseplace": "accessorysound",
+    "ElementType": 0,
+    "ItemQuality": 5,
+    "assetPath": "Item_1904",
+    "Price": 25,
+    "AvaiNumber": 1
+  },
+  {
+    "id": 1905,
+    "name": "鹿角守护",
+    "canuse": true,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [],
+    "placingIds": [
+      175
+    ],
+    "wgirds": 1,
+    "hgirds": 2,
+    "RoleType": 1,
+    "ItemType": 4,
+    "audioseplace": "accessorysound",
+    "ElementType": 16,
+    "ItemQuality": 5,
+    "assetPath": "Item_1905",
+    "Price": 28,
+    "AvaiNumber": 1
+  },
+  {
+    "id": 1907,
+    "name": "命令旌旗",
+    "canuse": true,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [
+      64,
+      256,
+      8192
+    ],
+    "placingIds": [
+      176
+    ],
+    "wgirds": 1,
+    "hgirds": 2,
+    "RoleType": 2,
+    "ItemType": 4,
+    "audioseplace": "accessorysound",
+    "ElementType": 6,
+    "ItemQuality": 5,
+    "assetPath": "Item_1907",
+    "Price": 25,
+    "AvaiNumber": 1
+  },
+  {
+    "id": 1910,
+    "name": "魔法巢穴",
+    "canuse": true,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [],
+    "placingIds": [
+      177
+    ],
+    "wgirds": 2,
+    "hgirds": 2,
+    "RoleType": 2,
+    "ItemType": 4,
+    "audioseplace": "accessorysound",
+    "ElementType": 0,
+    "ItemQuality": 5,
+    "assetPath": "Item_1910",
+    "Price": 26,
+    "AvaiNumber": 1
+  },
+  {
+    "id": 1912,
+    "name": "一碗美食",
+    "canuse": true,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [
+      4096,
+      8192
+    ],
+    "placingIds": [
+      178
+    ],
+    "wgirds": 2,
+    "hgirds": 1,
+    "RoleType": 3,
+    "ItemType": 8,
+    "audioseplace": "fruitsound",
+    "ElementType": 16,
+    "ItemQuality": 5,
+    "assetPath": "Item_1912",
+    "Price": 22,
+    "AvaiNumber": 1
+  },
+  {
+    "id": 1913,
+    "name": "神机箭",
+    "canuse": true,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [],
+    "placingIds": [
+      179,
+      180
+    ],
+    "wgirds": 2,
+    "hgirds": 1,
+    "RoleType": 3,
+    "ItemType": 4,
+    "audioseplace": "accessorysound",
+    "ElementType": 0,
+    "ItemQuality": 5,
+    "assetPath": "Item_1913",
+    "Price": 23,
+    "AvaiNumber": 1
+  },
+  {
+    "id": 1914,
+    "name": "大四叶草",
+    "canuse": true,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [],
+    "placingIds": [],
+    "wgirds": 2,
+    "hgirds": 2,
+    "RoleType": 3,
+    "ItemType": 4,
+    "audioseplace": "accessorysound",
+    "ElementType": 16,
+    "ItemQuality": 5,
+    "assetPath": "Item_1914",
+    "Price": 25,
+    "AvaiNumber": 1
+  },
+  {
+    "id": 1908,
+    "name": "爆裂章节",
+    "canuse": true,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [
+      256
+    ],
+    "placingIds": [
+      191,
+      192
+    ],
+    "wgirds": 1,
+    "hgirds": 2,
+    "RoleType": 2,
+    "ItemType": 4,
+    "audioseplace": "accessorysound",
+    "ElementType": 3,
+    "ItemQuality": 5,
+    "assetPath": "Item_1908",
+    "Price": 25,
+    "AvaiNumber": 1
+  },
+  {
+    "id": 1901,
+    "name": "旅行袋",
+    "canuse": true,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [],
+    "placingIds": [
+      201
+    ],
+    "wgirds": 3,
+    "hgirds": 2,
+    "RoleType": 1,
+    "ItemType": 1,
+    "audioseplace": "accessorysound",
+    "ElementType": 0,
+    "ItemQuality": 5,
+    "assetPath": "Bag_2_3",
+    "Price": 27,
+    "AvaiNumber": 1
+  },
+  {
+    "id": 1906,
+    "name": "火焰储物袋",
+    "canuse": true,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [],
+    "placingIds": [
+      202
+    ],
+    "wgirds": 3,
+    "hgirds": 3,
+    "RoleType": 2,
+    "ItemType": 1,
+    "audioseplace": "accessorysound",
+    "ElementType": 0,
+    "ItemQuality": 5,
+    "assetPath": "Bag_3_3",
+    "Price": 25,
+    "AvaiNumber": 1
+  },
+  {
+    "id": 1911,
+    "name": "野营背包",
+    "canuse": true,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [],
+    "placingIds": [
+      203
+    ],
+    "wgirds": 2,
+    "hgirds": 3,
+    "RoleType": 3,
+    "ItemType": 1,
+    "audioseplace": "accessorysound",
+    "ElementType": 0,
+    "ItemQuality": 5,
+    "assetPath": "Bag_3_2",
+    "Price": 25,
+    "AvaiNumber": 1
+  },
+  {
+    "id": 1116,
+    "name": "亚麻包",
+    "canuse": true,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [],
+    "placingIds": [],
+    "wgirds": 2,
+    "hgirds": 2,
+    "RoleType": 0,
+    "ItemType": 1,
+    "audioseplace": "accessorysound",
+    "ElementType": 0,
+    "ItemQuality": 0,
+    "assetPath": "Bag_2_2",
+    "Price": 6,
+    "AvaiNumber": 3
+  },
+  {
+    "id": 1212,
+    "name": "腰包",
+    "canuse": true,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [],
+    "placingIds": [
+      205
+    ],
+    "wgirds": 2,
+    "hgirds": 1,
+    "RoleType": 0,
+    "ItemType": 1,
+    "audioseplace": "accessorysound",
+    "ElementType": 0,
+    "ItemQuality": 1,
+    "assetPath": "Bag_2_1",
+    "Price": 8,
+    "AvaiNumber": 4
+  },
+  {
+    "id": 1318,
+    "name": "耐力背包",
+    "canuse": true,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [],
+    "placingIds": [],
+    "wgirds": 1,
+    "hgirds": 3,
+    "RoleType": 0,
+    "ItemType": 1,
+    "audioseplace": "accessorysound",
+    "ElementType": 0,
+    "ItemQuality": 2,
+    "assetPath": "Bag_3_1",
+    "Price": 12,
+    "AvaiNumber": 5
+  },
+  {
+    "id": 1434,
+    "name": "魔法腰带",
+    "canuse": true,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [],
+    "placingIds": [
+      207
+    ],
+    "wgirds": 1,
+    "hgirds": 4,
+    "RoleType": 0,
+    "ItemType": 1,
+    "audioseplace": "accessorysound",
+    "ElementType": 0,
+    "ItemQuality": 3,
+    "assetPath": "Bag_4_1",
+    "Price": 18,
+    "AvaiNumber": 4
+  },
+  {
+    "id": 1530,
+    "name": "守护手包",
+    "canuse": true,
+    "compositeMain": 0,
+    "compositeList": [],
+    "compriority": 0,
+    "isOrigin": true,
+    "placingType": [],
+    "placingIds": [],
+    "wgirds": 1,
+    "hgirds": 1,
+    "RoleType": 0,
+    "ItemType": 1,
+    "audioseplace": "accessorysound",
+    "ElementType": 0,
+    "ItemQuality": 4,
+    "assetPath": "Bag_1_1",
+    "Price": 22,
+    "AvaiNumber": 6
+  }
+]

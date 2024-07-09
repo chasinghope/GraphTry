@@ -45,7 +45,3 @@
 .Port_Gradient{
 	--port-color: #FF8000;
 }
-
-.Port_SkillFlowLink{
-	--port-color: #1cac78;
-}

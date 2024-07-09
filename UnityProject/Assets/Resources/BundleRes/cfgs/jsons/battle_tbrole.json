@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "specialItemIdList": [
+      1903,
+      1904,
+      1905
+    ]
+  },
+  {
+    "id": 2,
+    "specialItemIdList": [
+      1907,
+      1910,
+      1908
+    ]
+  },
+  {
+    "id": 3,
+    "specialItemIdList": [
+      1912,
+      1913,
+      1914
+    ]
+  }
+]

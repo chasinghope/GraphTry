@@ -25,7 +25,7 @@ public class RuntimeGraph : MonoBehaviour
 			graph.SetParameterValue("Input", (float)i++);
 			graph.SetParameterValue("GameObject", assignedGameObject);
 			processor.Run();
-			// Debug.Log("Output: " + graph.GetParameterValue("Output"));
+			Debug.Log("Output: " + graph.GetParameterValue("Output"));
 		}
     }
 }

@@ -11,11 +11,6 @@ public class PrintNode : BaseNode
 	public object	obj;
 
 	public override string name => "Print";
-	
-	protected override void Process()
-	{
-		Debug.Log(obj);
-	}
 }
 
 [NodeMenuItem("Conditional/Print")]
