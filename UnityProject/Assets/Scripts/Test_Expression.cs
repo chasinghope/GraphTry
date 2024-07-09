@@ -14,12 +14,27 @@ public class People
     }
 }
 
+public class Boy : People
+{
+    
+}
+
 public class Test_Expression : MonoBehaviour
 {
     void Start()
     {
-        Test_1();
+        Test_3();
     }
+
+
+    private void Test_3()
+    {
+        Debug.Log(typeof(Boy).IsAssignableFrom(typeof(People)));
+        Debug.Log(typeof(People).IsAssignableFrom(typeof(Boy)));
+        
+    }
+    
+    
     private void Test_1()
     {
         List<People> peopleList = new List<People>();
